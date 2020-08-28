@@ -1,0 +1,58 @@
+[
+{
+	"name": "Magnificient Temples",
+	"uniqueTo": "Khmer",
+	"cost": -1
+	"isNationalWonder": true,
+	"uniques": ["Magnificient Temples:
+","Free Great Person","when you discover Civil Service
+"],
+	"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Var",
+		"replaces": "Castle",
+		"uniqueTo": "Hungary", 
+		"cityStrength": 9,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+       		"cost": 200,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Vihara",
+		"replaces": "Monastery",
+		"uniqueTo": "Champa", 
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+       		"cost": 160,
+		"uniques": ["[+1 Food] from [Jungle] tiles in this city","[+1 Culture] from [Jungle] tiles in this city"],
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Prasat",
+		"replaces": "Castle",
+		"uniqueTo": "Khmer", 
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"specialistSlots": {"culture": 1, "production": 1},
+       		"cost": 220,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Theology"
+	},
+{
+		"name": "Water Puppet Theatre",
+		"replaces": "Opera House",
+		"uniqueTo": "Vietnam", 
+		"culture": 4,
+		"happiness": 1,
+		"specialistSlots": {"culture": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Temple",
+		"maintenance": 2,
+		"uniques": ["[+2 Culture] from [Lakes] tiles in this city"]
+		"requiredTech": "Acoustics"
+	},
+]

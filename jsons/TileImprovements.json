@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Sacred grove",
+		"uniqueTo": "Lithuania",
+		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
+		"food": 1,
+		"happiness": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Calendar",
+		"improvingTech": "Archaeology",
+		"improvingTechStats": {"culture": 1}
+	},
+]

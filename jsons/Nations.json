@@ -1,0 +1,176 @@
+[
+	{
+		"name": "Hungary",
+		"leaderName": "Matthias Corvinus",
+		"adjective": ["Hungarian"],
+		"startBias": ["Hill", "Plains"],
+		//"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
+		"attacked": "That can not be true. If it is, we will do our best to fend you off!",
+		"defeated": "The bitter taste of defeat. you will taste it as well. Someday...",
+		"introduction": "You stand in front of Matthias Corvinus, the great king of Hungary. Are you a friend or a foe?",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's unacceptable"],
+		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["Hungary will never accept that!","No way!"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
+		
+		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
+		"tradeRequest": "I've got an offer. Are you interested?",
+
+		"outerColor": [61, 105, 55],
+		"innerColor": [205, 131, 32],
+		"uniqueName": "Patronage of the Raven",
+		"uniques": ["+[20]% Production when constructing [Culture] buildings","+[20]% Production when constructing [Library]","+[20]% Production when constructing [University]","+[20]% Production when constructing [Observatory]","+[20]% Production when constructing [Public School]","+[20]% Production when constructing [Research Lab]","+[50]% Production when constructing [Var]","+[50]% Production when constructing [Walls]"],
+		"cities": ["Buda","Pest","Esztergom","Debrecen","Pecs","Eger","Miskolc","Gyor","Szekesfehervar","Szeged",
+			"Koszeg","Obuda","Kolozsvar","Diosgyor","Tatabanya","Kassa","Eperjes","Kisszeben","Eger","Mohacs","Tata",
+			"Szolnok","Sarvar","Zagrab","Temesvar","Nyiregyhaza","Kecskemet","Sopron"]
+	},
+	{
+		"name": "Champa",
+		"leaderName": "Chế Bồng Nga",
+		"adjective": ["Cham"],
+		"startBias": ["Jungle","Grassland","Coast"],
+		//"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "We tolerated you way longer than we should, and now we demand you pay with your blood.",
+		"attacked": "We will ensure, you will remember the day you turned on us.",
+		"defeated":  "So that's how it ends. That's not how I've imagined my last moments.",
+		"introduction":  "I am the Red King of Champa, Chế Bồng Nga! Are you here to trade?",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["You dare to joke in my presence!?","Don't make me laugh."],
+		"hateYes": ["I must accept, even if i don't like you.","Fine."],
+		
+		"afterPeace": "I hope this won't happen again and even if it does - We've learned a lesson!",
+		"tradeRequest": "Will this work or do I need to propose you a better deal?",
+
+		"outerColor": [	78, 154, 230],
+		"innerColor": [	204, 56, 53],
+		"uniqueName": "Traders of the Shore",
+		"uniques": ["+1 happiness from each luxury resource", "[+1 Gold] from each Trade Route","Units pay only 1 movement point to embark and disembark","[+2 Culture] from every [Trading post]"],
+		"cities": ["Indrapura","My So'n","Vijaya","Mang Ly","Lam Ap Pho","Amaravati","Kauthara","Panduranga",
+			"Thi Li Bi Nai","Trivakramapura","Balonga","Hamu Lithit","Dong Hoi","Aya Ru","Bingi",
+			"Hve","Kon Tum","Yang Prong","Daknan","Kandarpapura","Eatran","Vishnupura","Tuy Hoa"]
+	},
+	{
+		"name": "Vietnam",
+		"leaderName": "Lê Thánh Tông",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle","Coast"],
+		//"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "We have tolerated you way longer than we should!",
+		"attacked": "That was your biggest mistake so far. My armies are well equipped and thoroughly trained!",
+		"defeated":  "That's not an end. It's merely a beginning of your problems!",
+		"introduction":  "You stand in the presence of Great Emperor Lê Thánh Tông of Vietnam. Behave accordingly and you should be fine.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+		
+		"afterPeace": "I am glad this war is finally over.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [	239, 2, 2],
+		"innerColor": [	255, 247, 9],
+		"uniqueName": "The Dragon Path",
+		"uniques": ["Wounded military units deal +25% damage","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]"],
+		"cities": ["Hanoi","Saigon","Hai Phong","Bien Hoa","Co Loa","Than Hoa","Da Nang","Nhang Hong","Hoi An",
+			"Hue","Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
+			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
+	},
+	{
+		"name": "Khmer",
+		"leaderName": "Suryavarman II",
+		"adjective": ["Khmer"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "I will show you the entire might of the Khmer people!",
+		"attacked": "I think you will quite soon regret this decission.",
+		"defeated":  "You are too late! I have completed my destiny and nothing can take eternal glory from me, even death!",
+		"introduction":  "You look upon the King of Angkor, Emperor of Khmer, rightful Ruler of the World and Master of the Universe!",
+		
+		"neutralHello": "Hail.",
+		"neutralLetsHearIt": ["Yes.","Go on."],
+		"neutralNo": ["Do not test my patience!","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","We accept."],
+		"hateHello": "Don't waste much of my time!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["You can't be serious!","No one would agree to that. Ever."],
+		"hateYes": ["Fine.","You can't simply refuse such offer."],
+		
+		"afterPeace": "I think we should forget about this misunderstanding.",
+		"tradeRequest": "What about this?",
+
+		"outerColor": [	51, 0, 255],
+		"innerColor": [	255, 255, 255],
+		"uniqueName": "Magnificient Temples",
+		"uniques": ["[+2 Food] from every specialist","+[15]% Production when constructing [Worker]"],
+		"cities": ["Angkor Wat","Hariharalaya","Singhapura","Lavo","Bhavapura","Vyadhapura","Dviradapura","Rajavihara","Mahendraparvata",
+			"Chaiya","Wiang Chan","U Thong","Phetchaburi","Nagara Jayasri","Banteay Kdei","Chok Gargyar","Preah Vihear","Chalieng",
+			"Krong Chaktomuk","Pre Rup","Prasat Bakan","Phanom Rung","Isanapura","Shrestapura","Angkor Borei","Lovei","Udong","Aninditapura"]
+	},
+{
+		"name": "Lithuania",
+		"leaderName": "Gediminas",
+		"adjective": ["Lithuanian"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "You have brought the wrath of Dievas upon yourself!",
+		"attacked": "We shall now show you the true power of Lithuania!",
+		"defeated": "Dievas, Perkunas, why do you bring the wraith of Giltine upon me?",
+		"introduction": "I am Gediminas, the Grand Duke of Lithuania, by the good will of Dievas, stay out of my way and none blood shall be spilled.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["Yes.","Go on."],
+		"neutralNo": ["No.","That's unacceptable."],
+		"neutralYes": ["I can't refuse.","I gladly accept."],
+		"hateHello": "Why are you bothering me?",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["I will never accept that!","No way!"],
+		"hateYes": ["I must accept.","Remember, never reject a good offer."],
+		
+		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
+		"tradeRequest": "Here is an offer that might benefit both of us.",
+
+		"outerColor": [166, 22, 51],
+		"innerColor": [75, 156, 245],
+		"uniqueName": "Worship of the Old Gods",
+		"uniques": ["[+1 Food] from every [Deer]","[+1 Culture] from every [Wheat]","[+1 Gold] from every [Furs]","[+1 Production] from every [Stone]"]
+		"cities": ["Vilnius","Kaunas","Klaipeda","Kernave","Siauliai","Trakai","Panevezys","Kedainiai","Voruta","Prienai",
+			"Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
+			"Telsiai","Plunge","Kretinga","Gargzdai","Raseiniai","Joniskis","Anyksciai","Skuodas"]
+	},
+]
