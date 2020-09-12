@@ -7,7 +7,6 @@
 		"happiness": 1,
 		"turnsToBuild": 10,
 		"techRequired": "Calendar",
-		"improvingTech": "Archaeology",
-		"improvingTechStats": {"culture": 1}
+		"uniques": ["[+1 Culture] once [Archaeology] is discovered"]
 	},
 ]
