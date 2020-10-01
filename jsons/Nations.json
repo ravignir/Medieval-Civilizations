@@ -134,7 +134,7 @@
 		"outerColor": [	51, 0, 255],
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Magnificient Temples",
-		"uniques": ["[+2 Food] from every specialist","+[15]% Production when constructing [Worker]"],
+		"uniques": ["[+2 Food] from every specialist","+[15]% Production when constructing [Worker]","Receive Free Great Person when you discover Civil Service"],
 		"cities": ["Angkor Wat","Hariharalaya","Singhapura","Lavo","Bhavapura","Vyadhapura","Dviradapura","Rajavihara","Mahendraparvata",
 			"Chaiya","Wiang Chan","U Thong","Phetchaburi","Nagara Jayasri","Banteay Kdei","Chok Gargyar","Preah Vihear","Chalieng",
 			"Krong Chaktomuk","Pre Rup","Prasat Bakan","Phanom Rung","Isanapura","Shrestapura","Angkor Borei","Lovei","Udong","Aninditapura"]

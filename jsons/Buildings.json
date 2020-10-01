@@ -4,9 +4,7 @@
 	"uniqueTo": "Khmer",
 	"cost": -1
 	"isNationalWonder": true,
-	"uniques": ["Magnificient Temples:
-","Free Great Person","when you discover Civil Service
-"],
+	"uniques": ["Will not be displayed in Civilopedia","Free Great Person"],
 	"requiredTech": "Civil Service"
 	},
 	{
@@ -44,15 +42,15 @@
 	},
 {
 		"name": "Water Puppet Theatre",
-		"replaces": "Water Mill",
+		"replaces": "Opera House",
 		"uniqueTo": "Vietnam", 
+		"culture": 4,
 		"happiness": 1,
-		"food": 2,
-		"production": 1,
-		"hurryCostModifier": 25,
+		"specialistSlots": {"culture": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Temple",
 		"maintenance": 2,
-		"cost": 75,
-		"uniques": ["[+2 Culture] from [Lakes] tiles in this city","Must border a source of fresh water"],
-		"requiredTech": "The Wheel"
+		"uniques": ["[+2 Culture] from [Lakes] tiles in this city"]
+		"requiredTech": "Acoustics"
 	},
 ]
