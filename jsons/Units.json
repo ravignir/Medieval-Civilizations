@@ -65,11 +65,10 @@
 	},
 	{
 		"name": "Grove Keeper",
-		"unitType": "Melee",
+		"unitType": "Civilian",
 		"replaces": "Worker",
 		"uniqueTo": "Lithuania",
 		"movement": 2,
-		"strength": 5,
 		"cost": 85,
 		"upgradesTo": "Swordsman",
 		"promotions": ["Choosen of the Gods","Constructor"],
