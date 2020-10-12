@@ -71,8 +71,7 @@
 		"movement": 2,
 		"cost": 85,
 		"upgradesTo": "Swordsman",
-		"promotions": ["Choosen of the Gods","Constructor"],
-		"hurryCostModifier": 20,
+		"promotions": ["Choosen of the Gods","Constructor","Can build improvements on tiles"],
 		"attackSound": "metalhit"
 	},
 ]
