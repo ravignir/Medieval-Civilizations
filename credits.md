@@ -16,3 +16,6 @@ healing https://thenounproject.com/term/healing/3303875 By Bartama Graphic
 throne https://thenounproject.com/term/throne/1110150 By Andrew Doane 
 Moon https://thenounproject.com/term/moon/1796930 By yanti anis
 Tree https://thenounproject.com/term/tree/2968207 By Guilherme Furtado
+
+Translations:
+Smashfanful - Italian
