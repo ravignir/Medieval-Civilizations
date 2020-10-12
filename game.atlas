@@ -90,7 +90,7 @@ TileSets/FantasyHex/Tiles/Grassland+Forest+Sacred grove
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Jungle+Sacred grove
   rotate: false
-  xy: 810, 307
+  xy: 810, 313
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
@@ -104,7 +104,7 @@ TileSets/FantasyHex/Tiles/Hill+Forest+Sacred grove
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Forest+Sacred grove
   rotate: false
-  xy: 844, 307
+  xy: 844, 310
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
@@ -118,44 +118,44 @@ TileSets/FantasyHex/Tiles/Plains+Jungle+Sacred grove
   index: -1
 TileSets/FantasyHex/Tiles/Tundra+Forest+Sacred grove
   rotate: false
-  xy: 810, 241
+  xy: 810, 247
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Black Legion
   rotate: false
-  xy: 810, 373
-  size: 32, 31
-  orig: 32, 31
+  xy: 810, 376
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Coastal Raider
   rotate: false
-  xy: 810, 340
-  size: 32, 31
-  orig: 32, 31
+  xy: 810, 346
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Grove Keeper
   rotate: false
-  xy: 844, 340
-  size: 32, 31
-  orig: 32, 31
+  xy: 844, 343
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mong Dong
   rotate: false
-  xy: 810, 274
+  xy: 810, 280
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Siege Elephant
   rotate: false
-  xy: 912, 373
-  size: 32, 31
-  orig: 32, 31
+  xy: 912, 376
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Black Legion
