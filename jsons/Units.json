@@ -71,7 +71,8 @@
 		"movement": 2,
 		"cost": 85,
 		"upgradesTo": "Swordsman",
-		"promotions": ["Choosen of the Gods","Constructor","Can build improvements on tiles"],
+		"uniques": ["Can build improvements on tiles"],
+		"promotions": ["Choosen of the Gods","Constructor"],
 		"attackSound": "metalhit"
 	},
 ]
