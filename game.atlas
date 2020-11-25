@@ -1,47 +1,47 @@
 
 game.png
-size: 1024,1024
+size: 2048,1024
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 BuildingIcons/Magnificient Temples
   rotate: false
-  xy: 204, 204
+  xy: 810, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Prasat
   rotate: false
-  xy: 204, 2
+  xy: 810, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Var
   rotate: false
-  xy: 810, 608
+  xy: 608, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Vihara
   rotate: false
-  xy: 608, 204
+  xy: 1012, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Water Puppet Theatre
   rotate: false
-  xy: 810, 406
+  xy: 1214, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Sacred grove
   rotate: false
-  xy: 406, 204
+  xy: 1012, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -55,70 +55,77 @@ NationIcons/Champa
   index: -1
 NationIcons/Hungary
   rotate: false
-  xy: 406, 608
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-NationIcons/Khmer
-  rotate: false
   xy: 608, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Lithuania
+NationIcons/Ireland
   rotate: false
   xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+NationIcons/Khmer
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Lithuania
+  rotate: false
+  xy: 608, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/Vietnam
   rotate: false
-  xy: 406, 2
+  xy: 810, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Forest+Sacred grove
   rotate: false
-  xy: 844, 373
+  xy: 1416, 979
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Jungle+Sacred grove
   rotate: false
-  xy: 810, 313
+  xy: 810, 343
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Hill+Forest+Sacred grove
   rotate: false
-  xy: 878, 373
+  xy: 1012, 545
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Forest+Sacred grove
   rotate: false
-  xy: 844, 310
+  xy: 1248, 777
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Jungle+Sacred grove
   rotate: false
-  xy: 878, 340
+  xy: 1416, 946
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tundra+Forest+Sacred grove
   rotate: false
-  xy: 810, 247
+  xy: 810, 310
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
@@ -130,30 +137,44 @@ TileSets/FantasyHex/Units/Black Legion
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Cliathairi
+  rotate: false
+  xy: 1012, 578
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Coastal Raider
   rotate: false
-  xy: 810, 346
+  xy: 1214, 780
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Grove Keeper
   rotate: false
-  xy: 844, 343
+  xy: 844, 376
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Javelinman
+  rotate: false
+  xy: 1046, 578
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mong Dong
   rotate: false
-  xy: 810, 280
+  xy: 1214, 747
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Siege Elephant
   rotate: false
-  xy: 912, 376
+  xy: 1450, 982
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -165,23 +186,37 @@ UnitIcons/Black Legion
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Coastal Raider
+UnitIcons/Cliathairi
   rotate: false
   xy: 2, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Coastal Raider
+  rotate: false
+  xy: 204, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Javelinman
+  rotate: false
+  xy: 204, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Mong Dong
   rotate: false
-  xy: 608, 608
+  xy: 406, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Siege Elephant
   rotate: false
-  xy: 608, 406
+  xy: 406, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -195,49 +230,49 @@ UnitPromotionIcons/Choosen of the Gods
   index: -1
 UnitPromotionIcons/Constructor
   rotate: false
-  xy: 204, 608
+  xy: 406, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Grove Keeper
   rotate: false
-  xy: 204, 608
+  xy: 406, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dievas's Favor
   rotate: false
-  xy: 406, 810
+  xy: 2, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Giltine's Favor
   rotate: false
-  xy: 2, 204
+  xy: 204, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Gyvate's Favor
   rotate: false
-  xy: 204, 406
+  xy: 406, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Menulis's Favor
   rotate: false
-  xy: 406, 406
+  xy: 204, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Perkunas's Favor
   rotate: false
-  xy: 810, 810
+  xy: 608, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

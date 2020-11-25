@@ -1,4 +1,4 @@
-Sword https://thenounproject.com/term/sword/3155744 By Eucalyp 
+﻿Sword https://thenounproject.com/term/sword/3155744 By Eucalyp 
 Temple https://thenounproject.com/term/temple/3381012/ by supalerk laipawat
 Temple https://thenounproject.com/term/temple/2126198/ by ProSymbols
 angkor park https://thenounproject.com/term/angkor-park/2855902 By Ranah Pixel Studio
@@ -16,6 +16,10 @@ healing https://thenounproject.com/term/healing/3303875 By Bartama Graphic
 throne https://thenounproject.com/term/throne/1110150 By Andrew Doane 
 Moon https://thenounproject.com/term/moon/1796930 By yanti anis
 Tree https://thenounproject.com/term/tree/2968207 By Guilherme Furtado
+Harp https://thenounproject.com/term/harp/2405917 By Andi Nur Abdillah
+Wolf https://thenounproject.com/term/wolf/1942001 By sarah
+luck https://thenounproject.com/term/luck/3391165 By Lars Meiertoberens
+
 
 Translations:
 Smashfanful - Italian

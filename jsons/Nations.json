@@ -175,4 +175,37 @@
 			"Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
 			"Telsiai","Plunge","Kretinga","Gargzdai","Raseiniai","Joniskis","Anyksciai","Skuodas"]
 	},
+		{
+		"name": "Ireland",
+		"leaderName": "Tairrdelbach Ua Conchobair",
+		"adjective": ["Irish"],
+		//"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "You shall taste our steel!",
+		"attacked": "How dare You, you will beg for mercy!",
+		"defeated": "I have failed, but the history of Ireland will never be lost",
+		"introduction": "I am Tairrdelbach Ua Conchobair, the High King of Ireland. Who are You?",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["Yes.","Go on."],
+		"neutralNo": ["No.","Unacceptable."],
+		"neutralYes": ["Fine.","I gladly accept."],
+		"hateHello": "Do not waste my time.",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["I will never accept that!","No way!"],
+		"hateYes": ["I must accept.","If I have to."],
+		
+		"afterPeace": "The bards will sing songs about this war. I am glad it is over.",
+		"tradeRequest": "Here is an offer that might benefit both of us.",
+
+		"outerColor": [34, 36, 97],
+		"innerColor": [255, 179, 0],
+		"uniqueName": "Go n-éirí leat!",
+		"uniqueText": "Culture costs do not increase with the number of cities at a cost of double unhappiness from number of cities.",
+		"uniques": ["Each city founded increases culture cost of policies [100]% less than normal","Unhappiness from number of Cities doubled"],
+		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"],
+	}
 ]

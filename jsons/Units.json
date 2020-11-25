@@ -75,4 +75,43 @@
 		"promotions": ["Choosen of the Gods","Constructor"],
 		"attackSound": "metalhit"
 	},
+		{
+		"name": "Javelinman",
+		"replaces": "Spearman",
+		"unitType": "Ranged",
+		"uniqueTo": "Ireland",
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength": 10,
+		"range": 1,
+		"cost": 60,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"uniques": ["Bonus vs Mounted 50%"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Cliathairi",
+		"unitType": "Melee",
+		"uniqueTo": "Ireland",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 13,
+		"cost": 85,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["March","Blitz"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Empty Unit",
+		"unitType": "Melee",
+		"uniqueTo": "Ireland",
+		"replaces": "Longswordsman",
+		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "metalhit"
+	},
 ]
