@@ -110,6 +110,7 @@
 		"name": "Empty Unit",
 		"unitType": "Melee",
 		"uniqueTo": "Ireland",
+		"strength": 1,
 		"replaces": "Longswordsman",
 		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "metalhit"
