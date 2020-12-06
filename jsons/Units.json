@@ -115,4 +115,95 @@
 		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "metalhit"
 	},
+	/*
+		{
+		"name": "Pavise Crossbowman",
+		"unitType": "Ranged",
+		"uniqueTo": "Republic of Genoa",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 21,
+		"cost": 150,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Quick Study"],
+		"uniques": ["Defense bonus when embarked","+[10]% Strength when defending","Can move immediately once bought"]
+		"attackSound": "arrow"
+	},
+		{
+		"name": "Ribault",
+		"unitType": "Siege",
+		"replaces": "Trebuchet",
+		"uniqueTo": "Republic of Genoa",
+		"movement": 2,
+		"strength": 11,
+		"rangedStrength": 13,
+		"cost": 120,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"promotions": ["Logistics"],
+		"uniques": ["No defensive terrain bonus"],
+		"attackSound": "shot"
+	},
+		{
+		"name": "Heavy Rider",
+		"uniqueTo": "Bulgaria",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"promotions": ["Charge"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%" ],
+		"attackSound": "horse"
+	},
+			{
+		"name": "Lanze Militia",
+		"uniqueTo": "Sicily",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%","+[20]% combat bonus in [Friendly Land]"],
+		"attackSound": "horse"
+	},
+		{
+		"name": "Dmag Mi",
+		"unitType": "Melee",
+		"uniqueTo": "Tibet",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["Cover I"],
+		"attackSound": "metalhit"
+	},
+		{
+		"name": "Boyar",
+		"unitType": "Mounted",
+		"strength": 10,
+		"uniqueTo": "Bulgaria",
+		"replaces": "Great General",
+		"upgradesTo": "Knight",
+		"promotions": ["Boyar"],
+		"uniques": ["Great Person - [War]", "Unbuildable"]
+		"movement": 4
+	}
+	*/
 ]

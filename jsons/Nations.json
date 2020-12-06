@@ -11,7 +11,7 @@
 		
 		"declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
 		"attacked": "That can not be true. If it is, we will do our best to fend you off!",
-		"defeated": "The bitter taste of defeat. you will taste it as well. Someday...",
+		"defeated": "The bitter taste of defeat. You will taste it as well. Someday...",
 		"introduction": "You stand in front of Matthias Corvinus, the great king of Hungary. Are you a friend or a foe?",
 		
 		"neutralHello": "Greetings.",
@@ -207,5 +207,144 @@
 		"uniqueText": "Policies cost does not increase with the number of cities at a cost of double unhappiness from number of cities.",
 		"uniques": ["Each city founded increases culture cost of policies [100]% less than normal","Unhappiness from number of Cities doubled"],
 		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"],
-	}
+	},
+	/*
+		{
+		"name": "Tibet",
+		"leaderName": "Songtsan Gampo",
+		"adjective": ["Tibetan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "It is your time to pass the trial of avalanche!",
+		"attacked": "How dare you disturb the peace?",
+		"defeated": "It was inevitable",
+		"introduction": "Welcome to the roof of the world, friend. You must be tired, please take a rest, we will talk later.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's unacceptable"],
+		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["No way!"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
+		
+		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
+		"tradeRequest": "Are you interested?",
+
+		"outerColor": [95, 163, 118],
+		"innerColor": [195, 227, 220],
+		"uniqueName": "The Roof of the World",
+		"uniqueText": "+25% towards Great People in all cities settled next to Mountains. +2 Culture from every Great Improvement",
+		"uniques": ["[+2 Culture] from every [Great Improvement]"],
+		"cities": ["Lhasa","Xigaze","Gyantse","Chamdo","Gyegu","Rutog","Nyingchi","Nedong","Tingri","Leh","Senggezangbo","Nagchukha",
+		"Coqen","Lhatse","Tawang","Ladakh","Batang"]
+	},
+		{
+		"name": "Bulgaria",
+		"leaderName": "Simeon",
+		"adjective": ["Bulgarian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "Ready your Horses my warrior! This day, blood will be spilled!",
+		"attacked": "What? I thought you are smarter!",
+		"defeated": "Celeberate your victory...",
+		"introduction": "And who are you stranger, what brings you to Bulgarian Empire?",
+		
+		"neutralHello": "Yes?",
+		"neutralLetsHearIt": ["Speak."],
+		"neutralNo": ["No.","That's unacceptable"],
+		"neutralYes": ["I can't refuse.","I accept"],
+		"hateHello": "Quick!",
+		"hateLetsHearIt": ["Ist taht all you have to offer?"],
+		"hateNo": ["Don't test my patience!","No way!"],
+		"hateYes": ["I must accept.","Let it be"],
+		
+		"afterPeace": "Peace is boring.",
+		"tradeRequest": "I've got an offer. Are you interested?",
+
+		"outerColor": [186, 97, 137],
+		"innerColor": [95, 184, 144],
+		"uniqueName": "Iron Discipline",
+		"uniques": ["New [mounted] units start with [15] Experience","[Wounded] units deal +[20]% damage"],
+		"cities": ["Sofia","Pliska","Tarnovo","Nesebar","Vidin","Skopje","Beroe","Plovdiv","Varna","Cherven","Debelt","Melnik","Preslavec",
+		"Silistra","Markeli","Balgrad","Mis","Serres","Kalfa"]
+		
+	},
+			{
+		"name": "Sicily",
+		"leaderName": "Roger II",
+		"adjective": ["Sicilian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
+		"attacked": "That can not be true. If it is, we will do our best to fend you off!",
+		"defeated": "The bitter taste of defeat. you will taste it as well. Someday...",
+		"introduction": "You stand in front of Matthias Corvinus, the great king of Hungary. Are you a friend or a foe?",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's unacceptable"],
+		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["Hungary will never accept that!","No way!"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
+		
+		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
+		"tradeRequest": "I've got an offer. Are you interested?",
+
+		"outerColor": [252, 223, 3],
+		"innerColor": [171, 171, 171],
+		"uniqueName": "Mediterranean Influence",
+		"uniques": ["Pay only one third the usual cost for naval unit maintenance","[+2 Food, +2 Culture, +2 Gold] from every [Harbor]"],
+		"cities": ["Palermo","Naples","Salerno","Catania","Bari","Ragusa","Messina","Catanzaro","Lecce","Benevento","Siracussa","Capua","Melfi","Girgenti","Foggia",
+		"Gaeta","Tropea","Pescara","Trani","Crotone","Taranto","Modica","Erice","Noto","Agira"]
+	},
+			{
+		"name": "Republic of Genoa",
+		"leaderName": "Simone Boccanegra",
+		"adjective": ["Genoese"],
+		"startBias": ["Coast"],
+		//"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "I think we might have conflicting interests!",
+		"attacked": "I hope you studied that thoroughly, because there will be no mercy.",
+		"defeated": "I must leave... Good luck",
+		"introduction": "You stand in front of Simone Boccanera, the doge of Republic of Genoa. Would you mind a cup of wine?",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's unacceptable"],
+		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["..."],
+		"hateYes": ["We must accept."],
+		
+		"afterPeace": "Hopefully that little war did not impact our economic relations much.",
+		"tradeRequest": "What is your proposal?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+		"uniqueName": "Mediterranean Enlightenment",
+		"uniqueText": "Adopting a new Policy Tree may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
+		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
+	},
+	*/
 ]
