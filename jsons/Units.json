@@ -115,7 +115,6 @@
 		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "metalhit"
 	},
-	/*
 		{
 		"name": "Pavise Crossbowman",
 		"unitType": "Ranged",
@@ -144,7 +143,7 @@
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
 		"promotions": ["Logistics"],
-		"uniques": ["No defensive terrain bonus"],
+		"uniques": ["No defensive terrain bonus","Must set up to ranged attack"],
 		"attackSound": "shot"
 	},
 		{
@@ -205,5 +204,4 @@
 		"uniques": ["Great Person - [War]", "Unbuildable"]
 		"movement": 4
 	}
-	*/
 ]

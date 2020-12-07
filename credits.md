@@ -19,7 +19,27 @@ Tree https://thenounproject.com/term/tree/2968207 By Guilherme Furtado
 Harp https://thenounproject.com/term/harp/2405917 By Andi Nur Abdillah
 Wolf https://thenounproject.com/term/wolf/1942001 By sarah
 luck https://thenounproject.com/term/luck/3391165 By Lars Meiertoberens
-
+---
+Lion https://thenounproject.com/term/lion/114559
+By Alexander Skowalsky
+buddhist https://thenounproject.com/term/buddhist/2126724
+By ProSymbols
+winery https://thenounproject.com/term/winery/79165
+By Vicons Design
+Buddhist Temple https://thenounproject.com/term/buddhist-temple/2009231
+By OCHA Visual
+Crossbow https://thenounproject.com/term/crossbow/3048423
+By Eucalyp 
+horse head https://thenounproject.com/term/horse-head/1324976
+By Icons Producer 
+Saddle https://thenounproject.com/term/saddle/1969245
+By ProSymbols,
+Bacía and Lance https://thenounproject.com/term/bacia-and-lance/177562
+By Felipe Perucho
+Knight https://thenounproject.com/term/knight/3523218
+By nareerat jaikaew
+Triskele https://thenounproject.com/term/triskele/2069915
+By Avana Vana
 
 Translations:
 Smashfanful - Italian

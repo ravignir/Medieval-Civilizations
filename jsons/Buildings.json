@@ -7,7 +7,6 @@
 	"uniques": ["Will not be displayed in Civilopedia","Free Great Person"],
 	"requiredTech": "Civil Service"
 	},
-	/*
 	{
 	"name": "The Roof of the World",
 	"uniqueTo": "Tibet",
@@ -78,7 +77,6 @@
 	"requiredBuilding": "Palace",
 	"uniques": ["Will not be displayed in Civilopedia","Requires [Autocracy]","Free Technology"],
 	},
-	*/
 	{
 		"name": "Var",
 		"replaces": "Castle",
@@ -125,7 +123,7 @@
 		"uniques": ["[+2 Culture] from [Lakes] tiles in this city"]
 		"requiredTech": "Acoustics"
 	},
-	/*
+
 		{
 		"name": "Winery",
 		"replaces": "Market",
@@ -149,5 +147,4 @@
 		"uniques": ["[+1 Culture] from [Hill] tiles in this city"],
 		"requiredTech": "Philosophy"
 	},
-	*/
 ]

@@ -208,7 +208,7 @@
 		"uniques": ["Each city founded increases culture cost of policies [100]% less than normal","Unhappiness from number of Cities doubled"],
 		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"],
 	},
-	/*
+
 		{
 		"name": "Tibet",
 		"leaderName": "Songtsan Gampo",
@@ -346,5 +346,5 @@
 		"uniqueText": "Adopting a new Policy Tree may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
 		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
 	},
-	*/
+
 ]
