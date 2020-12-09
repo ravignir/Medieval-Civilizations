@@ -119,7 +119,7 @@
 		"name": "Pavise Crossbowman",
 		"unitType": "Ranged",
 		"uniqueTo": "Republic of Genoa",
-		"relaces": "Crossbowman",
+		"replaces": "Crossbowman",
 		"movement": 2,
 		"strength": 14,
 		"rangedStrength": 21,
