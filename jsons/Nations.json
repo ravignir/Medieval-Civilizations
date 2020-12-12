@@ -348,7 +348,7 @@
 	},
 				{
 		"name": "Papal States",
-		"leaderName": "Pope Inncocent III",
+		"leaderName": "Pope Innocent III",
 		"adjective": ["Papal"],
 		"startBias": ["Avoid [Tundra]"],
 		//"preferredVictoryType": "Diplomatic",
