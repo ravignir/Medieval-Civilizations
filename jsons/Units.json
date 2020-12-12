@@ -260,7 +260,7 @@
 		"upgradesTo": "Modern Swiss Guard",
 		"obsoleteTech": "Replaceable Parts",
 		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
+		"attackSound": "shot"
 	},
 					{
 		"name": "Modern Swiss Guard",
@@ -276,7 +276,7 @@
 		"hurryCostModifier": 20,
 		"upgradesTo": "Pontifical Swiss Guard",
 		"obsoleteTech": "Plastics",
-		"attackSound": "metalhit"
+		"attackSound": "shot"
 	},
 						{
 		"name": "Pontifical Swiss Guard",
@@ -290,6 +290,6 @@
 		"requiredResource": "Guard",
 		"uniques": ["Will not be displayed in Civilopedia","+[50]% combat bonus in [Friendly Land]","Unit will heal every turn, even if it performs an action"],
 		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
+		"attackSound": "shot"
 	},
 ]
