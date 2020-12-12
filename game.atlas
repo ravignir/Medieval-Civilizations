@@ -4,121 +4,149 @@ size: 2048,1024
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
+BuildingIcons/Call the Crusade
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Deus Vult
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Saint Relics
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Synod
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Kumbum
   rotate: false
-  xy: 608, 406
+  xy: 608, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Magnificient Temples
   rotate: false
-  xy: 406, 2
+  xy: 1214, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Prasat
   rotate: false
-  xy: 608, 2
+  xy: 810, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Social Change (Autocracy
   rotate: false
-  xy: 1820, 910
+  xy: 1416, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Social Change (Commerce)
   rotate: false
-  xy: 1820, 910
+  xy: 1416, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Social Change (Freedom)
   rotate: false
-  xy: 1820, 910
+  xy: 1416, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Social Change (Honor)
   rotate: false
-  xy: 1820, 910
+  xy: 1416, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Social Change (Liberty)
   rotate: false
-  xy: 1820, 910
+  xy: 1416, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Social Change (Piety)
   rotate: false
-  xy: 1820, 910
+  xy: 1416, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Social Change (Rationalism)
   rotate: false
-  xy: 1820, 910
+  xy: 1416, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Social Change (Tradition)
   rotate: false
-  xy: 1820, 910
+  xy: 1416, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The Roof of the World
   rotate: false
-  xy: 1416, 810
+  xy: 1618, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Var
   rotate: false
-  xy: 1012, 204
+  xy: 1214, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Vihara
   rotate: false
-  xy: 1416, 608
+  xy: 1618, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Water Puppet Theatre
   rotate: false
-  xy: 1618, 810
+  xy: 1820, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Winery
   rotate: false
-  xy: 1012, 2
+  xy: 1214, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Sacred grove
   rotate: false
-  xy: 810, 204
+  xy: 1012, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -132,154 +160,252 @@ NationIcons/Bulgaria
   index: -1
 NationIcons/Champa
   rotate: false
-  xy: 2, 406
+  xy: 406, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Hungary
   rotate: false
-  xy: 608, 608
+  xy: 608, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Ireland
   rotate: false
-  xy: 810, 810
+  xy: 810, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Khmer
   rotate: false
-  xy: 406, 204
+  xy: 406, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Lithuania
   rotate: false
-  xy: 1012, 810
+  xy: 1012, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Republic of Genoa
-  rotate: false
-  xy: 1416, 506
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Sicily
+NationIcons/Papal States
   rotate: false
   xy: 1012, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Tibet
+NationIcons/Republic of Genoa
   rotate: false
-  xy: 810, 2
-  size: 200, 200
-  orig: 200, 200
+  xy: 1618, 506
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Vietnam
+NationIcons/Sicily
   rotate: false
   xy: 1214, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+NationIcons/Tibet
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Vietnam
+  rotate: false
+  xy: 1416, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Guard
+  rotate: false
+  xy: 810, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Grassland+Forest+Sacred grove
   rotate: false
-  xy: 1618, 675
+  xy: 1652, 473
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Jungle+Sacred grove
   rotate: false
-  xy: 1720, 777
+  xy: 1720, 545
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Hill+Forest+Sacred grove
   rotate: false
-  xy: 1922, 979
+  xy: 1854, 675
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Forest+Sacred grove
   rotate: false
-  xy: 1416, 443
+  xy: 1618, 413
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Jungle+Sacred grove
   rotate: false
-  xy: 1450, 473
+  xy: 1652, 440
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tundra+Forest+Sacred grove
   rotate: false
-  xy: 1552, 575
+  xy: 1854, 642
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Black Legion
   rotate: false
-  xy: 1214, 174
+  xy: 1618, 476
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Boyar
+  rotate: false
+  xy: 1720, 578
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Carroccio
+  rotate: false
+  xy: 1820, 678
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cliathairi
   rotate: false
-  xy: 1416, 476
+  xy: 1922, 780
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Coastal Raider
   rotate: false
-  xy: 1518, 578
+  xy: 1416, 72
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dmag Mi
+  rotate: false
+  xy: 1518, 174
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Elite Swiss Guard
+  rotate: false
+  xy: 1618, 446
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Grove Keeper
   rotate: false
-  xy: 1820, 880
+  xy: 1754, 578
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Rider
+  rotate: false
+  xy: 1820, 648
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Javelinman
   rotate: false
-  xy: 1214, 144
+  xy: 1922, 750
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lanze Militia
+  rotate: false
+  xy: 1956, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Modern Swiss Guard
+  rotate: false
+  xy: 1416, 42
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mong Dong
   rotate: false
-  xy: 1248, 171
+  xy: 1450, 69
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Papal Guard
+  rotate: false
+  xy: 1518, 144
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pavise Crossbowman
+  rotate: false
+  xy: 1552, 174
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pontifical Swiss Guard
+  rotate: false
+  xy: 1686, 476
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ribault
+  rotate: false
+  xy: 1720, 515
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Siege Elephant
   rotate: false
-  xy: 1518, 548
+  xy: 1754, 548
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swiss Guard
+  rotate: false
+  xy: 1820, 618
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -305,135 +431,177 @@ UnitPromotionIcons/Boyar
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Cliathairi
-  rotate: false
-  xy: 406, 810
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Coastal Raider
-  rotate: false
-  xy: 2, 204
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Dmag Mi
-  rotate: false
-  xy: 608, 810
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Heavy Rider
-  rotate: false
-  xy: 406, 406
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Javelinman
-  rotate: false
-  xy: 204, 2
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Lanze Militia
-  rotate: false
-  xy: 810, 608
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Mong Dong
-  rotate: false
-  xy: 810, 406
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Pavise Crossbowman
-  rotate: false
-  xy: 1012, 608
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Ribault
-  rotate: false
-  xy: 1618, 708
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Siege Elephant
-  rotate: false
-  xy: 1214, 608
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Choosen of the Gods
+UnitIcons/Carroccio
   rotate: false
   xy: 204, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Constructor
+UnitIcons/Cliathairi
   rotate: false
   xy: 204, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Grove Keeper
-  rotate: false
-  xy: 204, 406
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Dievas's Favor
+UnitIcons/Coastal Raider
   rotate: false
   xy: 406, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Giltine's Favor
-  rotate: false
-  xy: 2, 2
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Gyvate's Favor
+UnitIcons/Dmag Mi
   rotate: false
   xy: 204, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Elite Swiss Guard
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Modern Swiss Guard
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Papal Guard
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pontifical Swiss Guard
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Swiss Guard
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Rider
+  rotate: false
+  xy: 406, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Javelinman
+  rotate: false
+  xy: 1012, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lanze Militia
+  rotate: false
+  xy: 810, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mong Dong
+  rotate: false
+  xy: 810, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pavise Crossbowman
+  rotate: false
+  xy: 1214, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ribault
+  rotate: false
+  xy: 1820, 708
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Siege Elephant
+  rotate: false
+  xy: 1416, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Choosen of the Gods
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Constructor
+  rotate: false
+  xy: 608, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Grove Keeper
+  rotate: false
+  xy: 608, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dievas's Favor
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Giltine's Favor
+  rotate: false
+  xy: 608, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Gyvate's Favor
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Menulis's Favor
   rotate: false
-  xy: 608, 204
+  xy: 608, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Perkunas's Favor
   rotate: false
-  xy: 1214, 810
+  xy: 1416, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Zemyna's Favor
   rotate: false
-  xy: 1214, 204
+  xy: 1416, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

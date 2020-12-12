@@ -40,6 +40,12 @@ Knight https://thenounproject.com/term/knight/3523218
 By nareerat jaikaew
 Triskele https://thenounproject.com/term/triskele/2069915
 By Avana Vana
+catholicism https://thenounproject.com/term/catholicism/142762
+By Valerio Poltrini
+catholicism symbol https://thenounproject.com/term/catholicism-symbol/2195189
+By ProSymbols
+Weapon https://thenounproject.com/term/weapon/2415384
+By Eucalyp 
 
 Translations:
 Smashfanful - Italian

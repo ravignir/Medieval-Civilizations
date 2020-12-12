@@ -7,6 +7,48 @@
 	"uniques": ["Will not be displayed in Civilopedia","Free Great Person"],
 	"requiredTech": "Civil Service"
 	},
+		{
+        "name": "Deus Vult",
+	"uniqueTo": "Papal States",
+        "cost": -1,
+	"isNationalWonder": true,
+	"cannotBeBuiltWith": "Palace",
+	"requiredBuilding": "Palace",
+	"uniques": ["Will not be displayed in Civilopedia","Provides [5] [Guard]"]
+},
+{
+        "name": "Call the Crusade",
+        "uniqueTo": "Papal States",
+	"isNationalWonder": true,
+        "cost": -1,
+	"cannotBeBuiltWith": "Deus Vult",
+	"requiredBuilding": "Palace",
+        "providesFreeBuilding": "Deus Vult",
+	"requiredTech": "Theology",
+        "uniques": ["+20% attack bonus to all Military Units for 30 turns","Will not be displayed in Civilopedia"]
+	},
+	{
+        "name": "Saint Relics",
+        "uniqueTo": "Papal States",
+	"isNationalWonder": true,
+        "cost": -1,
+	"cannotBeBuiltWith": "Deus Vult",
+		"requiredBuilding": "Palace",
+        "providesFreeBuilding": "Deus Vult",
+	"requiredTech": "Theology",
+        "uniques": ["Will not be displayed in Civilopedia","[+1 Culture] from every [Great Improvement]","[+1 Gold] from every [Great Improvement]"]
+	},
+		{
+        "name": "Synod",
+        "uniqueTo": "Papal States",
+	"isNationalWonder": true,
+        "cost": -1,
+	"cannotBeBuiltWith": "Deus Vult",
+		"requiredBuilding": "Palace",
+        "providesFreeBuilding": "Deus Vult",
+	"requiredTech": "Theology",
+        "uniques": ["Will not be displayed in Civilopedia","[+1 Culture] Per [2] Population in this city"],
+	},
 	{
 	"name": "The Roof of the World",
 	"uniqueTo": "Tibet",

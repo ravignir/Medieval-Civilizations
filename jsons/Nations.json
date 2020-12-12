@@ -346,5 +346,39 @@
 		"uniqueText": "Adopting a new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
 		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
 	},
+				{
+		"name": "Papal States",
+		"leaderName": "Pope Inncocent III",
+		"adjective": ["Papal"],
+		"startBias": ["Avoid [Tundra]"],
+		//"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "It is the time you should to learn the God's will",
+		"attacked": "I excommunicate you, burn in hell!",
+		"defeated": "If that's the lord's will",
+		"introduction": "Welcome, I am Innocent III, the disciple of Christ and apostolic succesor to Saint Peter.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's unacceptable"],
+		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": ["What's your offer?"],
+		"hateNo": ["..."],
+		"hateYes": ["I must accept."],
+		
+		"afterPeace": "What do you want, you vile beast?",
+		"tradeRequest": "What is your proposal?",
+
+		"outerColor": [128, 8, 0],
+		"innerColor": [255, 204, 0],
+		"uniqueName": "Deus Vult",
+		"uniqueText": "Non-air units may move immediately once bought. After researching Theology choose a bonus and gain an ability to recruit special units.",
+		"uniques": ["[non-air] units gain the [Crusader] promotion"],
+		"cities": ["Vatican City","Benevento","Ravenna","Avignon","Bologna","Ponte Corvo","Ferrara","Ascoli","Camerino","Rieti","Assisi","Orvieto","Rimini","Todi","Viterbo"]
+	},
 
 ]
