@@ -210,9 +210,8 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Papal States",
 		"replaces": "Great General",
-		"uniques": ["Can start an [12]-turn golden age","Bonus for units in 2 tile radius 15%",
-			"Heal adjacent units for an additional 15 HP per turn","This unit and all others in adjacent tiles heal 5 additional HP per turn", "Great Person - [War]", "Unbuildable"],
-		"movement": 3
+		"uniques": ["Can start an [12]-turn golden age","Bonus for units in 2 tile radius 15%","+2 Visibility Range","Heal adjacent units for an additional 15 HP per turn","This unit and all others in adjacent tiles heal 5 additional HP per turn", "Great Person - [War]", "Unbuildable"],
+		"movement": 1
 	},
 		{
 		"name": "Papal Guard",
