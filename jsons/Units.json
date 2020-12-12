@@ -284,7 +284,6 @@
 		"uniqueTo": "Papal States",
 		"movement": 3,
 		"strength": 77,
-		"range": 2,
 		"cost": 400,
 		"requiredTech": "Plastics",
 		"promotions": ["Formation I"],
