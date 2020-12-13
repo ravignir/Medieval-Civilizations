@@ -378,7 +378,7 @@
 		"uniqueName": "Deus Vult",
 		"uniqueText": "Non-air units may move immediately once bought. After researching Theology choose a council bonus and gain an ability to recruit Papal Guards.",
 		"uniques": ["[non-air] units gain the [Crusader] promotion"],
-		"cities": ["Vatican City","Benevento","Ravenna","Avignon","Bologna","Ponte Corvo","Ferrara","Ascoli","Camerino","Rieti","Assisi","Orvieto","Rimini","Todi","Viterbo"]
+		"cities": ["Roma","Benevento","Ravenna","Avignon","Bologna","Ponte Corvo","Ferrara","Ascoli","Camerino","Rieti","Assisi","Orvieto","Rimini","Todi","Viterbo"]
 	},
 
 ]
