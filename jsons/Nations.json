@@ -101,7 +101,7 @@
 		"outerColor": [	239, 2, 2],
 		"innerColor": [	255, 247, 9],
 		"uniqueName": "The Dragon Path",
-		"uniques": ["Wounded military units deal +25% damage","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]"],
+		"uniques": ["[Wounded] units deal +[25]% damage","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]"],
 		"cities": ["Hanoi","Saigon","Hai Phong","Bien Hoa","Co Loa","Than Hoa","Da Nang","Nhang Hong","Hoi An",
 			"Hue","Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
 			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
@@ -274,7 +274,7 @@
 		"outerColor": [186, 97, 137],
 		"innerColor": [95, 184, 144],
 		"uniqueName": "Iron Discipline",
-		"uniques": ["New [mounted] units start with [15] Experience","[Wounded] units deal +[20]% damage"],
+		"uniques": ["New [mounted] units start with [15] Experience","[Mounted] units deal +[20]% damage"],
 		"cities": ["Sofia","Pliska","Tarnovo","Nesebar","Vidin","Skopje","Beroe","Plovdiv","Varna","Cherven","Debelt","Melnik","Preslavec",
 		"Silistra","Markeli","Balgrad","Mis","Serres","Kalfa"]
 		
