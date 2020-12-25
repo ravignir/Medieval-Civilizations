@@ -344,7 +344,7 @@
 		"innerColor": [255, 0, 0],
 		"uniqueName": "Mediterranean Enlightenment",
 		"uniqueText": "Adopting a new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
-		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
+		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Milan","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
 	},
 				{
 		"name": "Papal States",
