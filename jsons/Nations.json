@@ -271,8 +271,8 @@
 		"afterPeace": "Peace is boring.",
 		"tradeRequest": "I've got an offer. Are you interested?",
 
-		"outerColor": [186, 97, 137],
-		"innerColor": [95, 184, 144],
+		"outerColor": [207, 93, 121],
+		"innerColor": [32, 66, 36],
 		"uniqueName": "Iron Discipline",
 		"uniques": ["New [mounted] units start with [15] Experience","[Mounted] units deal +[20]% damage"],
 		"cities": ["Sofia","Pliska","Tarnovo","Nesebar","Vidin","Skopje","Beroe","Plovdiv","Varna","Cherven","Debelt","Melnik","Preslavec",
@@ -307,7 +307,7 @@
 		"tradeRequest": "I've got an offer. Are you interested?",
 
 		"outerColor": [252, 223, 3],
-		"innerColor": [171, 171, 171],
+		"innerColor": [145, 145, 145],
 		"uniqueName": "Mediterranean Influence",
 		"uniques": ["Pay only one third the usual cost for naval unit maintenance","[+2 Food, +2 Culture, +2 Gold] from every [Harbor]"],
 		"cities": ["Palermo","Naples","Salerno","Catania","Bari","Ragusa","Messina","Catanzaro","Lecce","Benevento","Siracussa","Capua","Melfi","Girgenti","Foggia",
