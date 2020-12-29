@@ -47,5 +47,10 @@ By ProSymbols
 Weapon https://thenounproject.com/term/weapon/2415384
 By Eucalyp 
 
+-------------------
 Translations:
 Smashfanful - Italian
+paontv - Japanese
+
+Fixes:
+Smashfanful
