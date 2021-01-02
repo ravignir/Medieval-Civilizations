@@ -10,16 +10,16 @@
 		"startIntroPart2": "TBD",
 		
 		"declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
-		"attacked": "That can not be true. If it is, we will do our best to fend you off!",
+		"attacked": "It can not be true, but I feel it is. We will do our best to fend you off!",
 		"defeated": "The bitter taste of defeat. You will taste it as well. Someday...",
 		"introduction": "You stand in front of Matthias Corvinus, the great king of Hungary. Are you a friend or a foe?",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Speak."],
-		"neutralNo": ["No.","That's unacceptable"],
-		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"neutralNo": ["No.","That's unacceptable."],
+		"neutralYes": ["I can't refuse.","I gladly accept."],
 		"hateHello": "Don't waste my time!",
-		"hateLetsHearIt": ["What's your offer?"],
+		"hateLetsHearIt": "What's your offer?",
 		"hateNo": ["Hungary will never accept that!","No way!"],
 		"hateYes": ["I must accept.","I never reject a good offer."],
 		
@@ -46,8 +46,8 @@
 		"startIntroPart2": "TBD",
 		
 		"declaringWar": "We tolerated you way longer than we should, and now we demand you pay with your blood.",
-		"attacked": "We will ensure, you will remember the day you turned on us.",
-		"defeated":  "So that's how it ends. That's not how I've imagined my last moments.",
+		"attacked": "We will ensure you will remember the day you turned on us.",
+		"defeated":  "So that's how it all ends. That is not how I've imagined my last moments.",
 		"introduction":  "I am the Red King of Champa, Chế Bồng Nga! Are you here to trade?",
 		
 		"neutralHello": "Greetings, friend.",
@@ -56,7 +56,7 @@
 		"neutralYes": ["Very good.","Of course, yes.","I accept."],
 		"hateHello": "Go on!",
 		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["You dare to joke in my presence!?","Don't make me laugh."],
+		"hateNo": ["You dare to joke in my presence!?","Don't make me laugh!"],
 		"hateYes": ["I must accept, even if i don't like you.","Fine."],
 		
 		"afterPeace": "I hope this won't happen again and even if it does - We've learned a lesson!",
@@ -82,9 +82,9 @@
 		"startIntroPart2": "TBD",
 		
 		"declaringWar": "We have tolerated you way longer than we should!",
-		"attacked": "That was your biggest mistake so far. My armies are well equipped and thoroughly trained!",
+		"attacked": "It was the biggest mistake of yours so far. My armies are well equipped and thoroughly trained!",
 		"defeated":  "That's not an end. It's merely a beginning of your problems!",
-		"introduction":  "You stand in the presence of Great Emperor Lê Thánh Tông of Vietnam. Behave accordingly and you should be fine.",
+		"introduction":  "You stand in the presence of Great Emperor Lê Thánh Tông of Vietnam. Behave accordingly and you SHOULD be fine.",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
@@ -95,7 +95,7 @@
 		"hateNo": ["I can't accept!","You need to try harder."],
 		"hateYes": ["Let it be.","This offer is too good to reject."],
 		
-		"afterPeace": "I am glad this war is finally over.",
+		"afterPeace": "I am glad the war is finally over.",
 		"tradeRequest": "What do you think?",
 
 		"outerColor": [	239, 2, 2],
@@ -117,9 +117,9 @@
 		"startIntroPart2": "TBD",
 		
 		"declaringWar": "I will show you the entire might of the Khmer people!",
-		"attacked": "I think you will quite soon regret this decission.",
-		"defeated":  "You are too late! I have completed my destiny and nothing can take eternal glory from me, even death!",
-		"introduction":  "You look upon the King of Angkor, Emperor of Khmer, rightful Ruler of the World and Master of the Universe!",
+		"attacked": "I think you will regret this decission quite soon.",
+		"defeated":  "You are too late! I have completed my destiny and nothing can take the eternal glory from me, not even death!",
+		"introduction":  "You look upon the King of Angkor, Emperor of Khmer, rightful Ruler of the World and Master of the Universe. Also the most humble man to ever walk on Earth!",
 		
 		"neutralHello": "Hail.",
 		"neutralLetsHearIt": ["Yes.","Go on."],
@@ -151,7 +151,7 @@
 		"startIntroPart2": "TBD",
 		
 		"declaringWar": "You have brought the wrath of Dievas upon yourself!",
-		"attacked": "We shall now show you the true power of Lithuania!",
+		"attacked": "We shall now show you the true power of Lithuania and our true gods!",
 		"defeated": "Dievas, Perkunas, why do you bring the wraith of Giltine upon me?",
 		"introduction": "I am Gediminas, the Grand Duke of Lithuania, by the good will of Dievas, stay out of my way and none blood shall be spilled.",
 		
@@ -164,7 +164,7 @@
 		"hateNo": ["I will never accept that!","No way!"],
 		"hateYes": ["I must accept.","Remember, never reject a good offer."],
 		
-		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
+		"afterPeace": "See? One can live the 'pagans'!",
 		"tradeRequest": "Here is an offer that might benefit both of us.",
 
 		"outerColor": [166, 22, 51],
@@ -184,10 +184,10 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "You shall taste our steel!",
-		"attacked": "How dare You, you will beg for mercy!",
-		"defeated": "I have failed, but the history of Ireland will never be lost",
-		"introduction": "I am Tairrdelbach Ua Conchobair, the High King of Ireland. Who are You?",
+		"declaringWar": "You shall taste our steel! May the luck be with you, because that's the only thing to save you!",
+		"attacked": "How dare You! You will beg for mercy!",
+		"defeated": "I have failed, but the history of Ireland will never be lost.",
+		"introduction": "I am Tairrdelbach Ua Conchobair, the High King of Ireland. Who are You stranger? Is that a beginning of new, brighter future?",
 		
 		"neutralHello": "Hello.",
 		"neutralLetsHearIt": ["Yes.","Go on."],
@@ -196,9 +196,9 @@
 		"hateHello": "Do not waste my time.",
 		"hateLetsHearIt": ["What's your offer?"],
 		"hateNo": ["I will never accept that!","No way!"],
-		"hateYes": ["I must accept.","If I have to."],
+		"hateYes": ["I must accept.","If I have to..."],
 		
-		"afterPeace": "The bards will sing songs about this war. I am glad it is over.",
+		"afterPeace": "The bards will sing songs about this war. Yet, I am glad it is over.",
 		"tradeRequest": "Here is an offer that might benefit both of us.",
 
 		"outerColor": [34, 36, 97],
@@ -219,27 +219,27 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "It is your time to pass the trial of avalanche!",
+		"declaringWar": "It is your time to pass the Trial of Avalanche!",
 		"attacked": "How dare you disturb the peace?",
-		"defeated": "It was inevitable",
+		"defeated": "It was inevitable... The fate is a wheel, remember that.",
 		"introduction": "Welcome to the roof of the world, friend. You must be tired, please take a rest, we will talk later.",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Speak."],
-		"neutralNo": ["No.","That's unacceptable"],
+		"neutralNo": ["No.","That's unacceptable."],
 		"neutralYes": ["I can't refuse.","I gladly accept"],
 		"hateHello": "Don't waste my time!",
 		"hateLetsHearIt": ["What's your offer?"],
 		"hateNo": ["No way!"],
 		"hateYes": ["I must accept.","I never reject a good offer."],
 		
-		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
+		"afterPeace": "Let this peace be eternal, like the peaks of Tibet!",
 		"tradeRequest": "Are you interested?",
 
 		"outerColor": [95, 163, 118],
 		"innerColor": [195, 227, 220],
 		"uniqueName": "The Roof of the World",
-		"uniqueText": "+25% towards Great People in all cities settled next to Mountains. +2 Culture from every Great Improvement",
+		"uniqueText": "Free Garden in all cities settled next to Mountains. +2 Culture from every Great Improvement",
 		"uniques": ["[+2 Culture] from every [Great Improvement]"],
 		"cities": ["Lhasa","Xigaze","Gyantse","Chamdo","Gyegu","Rutog","Nyingchi","Nedong","Tingri","Leh","Senggezangbo","Nagchukha",
 		"Coqen","Lhatse","Tawang","Ladakh","Batang"]
@@ -254,22 +254,22 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "Ready your Horses my warrior! This day, blood will be spilled!",
+		"declaringWar": "Ready your horses my warriors! This day, we ride to war!",
 		"attacked": "What? I thought you are smarter!",
-		"defeated": "Celeberate your victory...",
-		"introduction": "And who are you stranger, what brings you to Bulgarian Empire?",
+		"defeated": "Celebrate your victory... Just like I will celebrate your defeat!",
+		"introduction": "And who are you stranger, what brings you to the mighty Bulgarian Empire?",
 		
 		"neutralHello": "Yes?",
 		"neutralLetsHearIt": ["Speak."],
-		"neutralNo": ["No.","That's unacceptable"],
+		"neutralNo": ["No.","That's unacceptable."],
 		"neutralYes": ["I can't refuse.","I accept"],
 		"hateHello": "Quick!",
 		"hateLetsHearIt": ["Ist taht all you have to offer?"],
 		"hateNo": ["Don't test my patience!","No way!"],
 		"hateYes": ["I must accept.","Let it be"],
 		
-		"afterPeace": "Peace is boring.",
-		"tradeRequest": "I've got an offer. Are you interested?",
+		"afterPeace": "Peace is boring, but necessary. Warriors need rest!",
+		"tradeRequest": "I've got new spoils of war. Are you interested?",
 
 		"outerColor": [207, 93, 121],
 		"innerColor": [32, 66, 36],
@@ -289,21 +289,21 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
-		"attacked": "That can not be true. If it is, we will do our best to fend you off!",
-		"defeated": "The bitter taste of defeat. you will taste it as well. Someday...",
-		"introduction": "The King of Sicily gives you His hand in friendship... if you have friendly intentions, that is.",
+		"declaringWar": "I could not think of better words: just die!",
+		"attacked": "You fool! Do you really think you can beat me?!",
+		"defeated": "... I was a fool. Good luck, mighty leader!",
+		"introduction": "The King of Sicily gives you his hand in friendship... if you have friendly intentions, that is.",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Speak."],
-		"neutralNo": ["No.","That's unacceptable"],
-		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"neutralNo": ["No.","That's unacceptable."],
+		"neutralYes": ["I can't refuse.","I gladly accept."],
 		"hateHello": "Don't waste my time!",
 		"hateLetsHearIt": ["What's your offer?"],
 		"hateNo": ["Hungary will never accept that!","No way!"],
 		"hateYes": ["I must accept.","I never reject a good offer."],
 		
-		"afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
+		"afterPeace": "Let's drink some wine! Even the most fierce warriors need rest!",
 		"tradeRequest": "I've got an offer. Are you interested?",
 
 		"outerColor": [252, 223, 3],
@@ -323,15 +323,15 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "I think we might have conflicting interests!",
+		"declaringWar": "I think we might have conflicting interests, actually - I am certain!",
 		"attacked": "I hope you studied that thoroughly, because there will be no mercy.",
-		"defeated": "I must leave... Good luck",
-		"introduction": "You stand in front of Simone Boccanera, the doge of Republic of Genoa. Would you mind a cup of wine?",
+		"defeated": "I must leave... Farewell.",
+		"introduction": "You stand in front of Simone Boccanera, the doge of Republic of Genoa. Would you mind a cup of wine? Or two?",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Speak."],
-		"neutralNo": ["No.","That's unacceptable"],
-		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"neutralNo": ["No.","That's unacceptable."],
+		"neutralYes": ["I can't refuse.","I gladly accept."],
 		"hateHello": "Don't waste my time!",
 		"hateLetsHearIt": ["What's your offer?"],
 		"hateNo": ["..."],
@@ -343,7 +343,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [255, 0, 0],
 		"uniqueName": "Mediterranean Enlightenment",
-		"uniqueText": "Adopting a new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
+		"uniqueText": "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
 		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Milan","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
 	},
 				{
@@ -356,22 +356,22 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "It is the time you should to learn the God's will",
+		"declaringWar": "It is the time you should learn the God's will. There is no place for heresy!",
 		"attacked": "I excommunicate you, burn in hell!",
-		"defeated": "If that's the lord's will",
+		"defeated": "If that's the Lord's will, I must accept it!",
 		"introduction": "Welcome, I am Innocent III, the disciple of Christ and apostolic succesor to Saint Peter.",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Speak."],
-		"neutralNo": ["No.","That's unacceptable"],
-		"neutralYes": ["I can't refuse.","I gladly accept"],
+		"neutralNo": ["No.","Unacceptable."],
+		"neutralYes": ["I can't refuse.","Let it be."],
 		"hateHello": "Don't waste my time!",
 		"hateLetsHearIt": ["What's your offer?"],
 		"hateNo": ["..."],
 		"hateYes": ["I must accept."],
 		
 		"afterPeace": "What do you want, you vile beast?",
-		"tradeRequest": "What is your proposal?",
+		"tradeRequest": "This offer is blessed, you should accept it!",
 
 		"outerColor": [128, 8, 0],
 		"innerColor": [255, 204, 0],

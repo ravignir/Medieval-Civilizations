@@ -53,7 +53,8 @@
 	"name": "The Roof of the World",
 	"uniqueTo": "Tibet",
 	"cost": -1,
-	"uniques": ["Will not be displayed in Civilopedia","+[25]% great person generation in this city", "Must be next to [Mountain]"],
+	"providesFreeBuilding": "Garden",
+	"uniques": ["Will not be displayed in Civilopedia", "Must be next to [Mountain]"],
 	},
 	{
 	"name": "Social Change (Tradition)",
