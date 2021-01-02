@@ -104,7 +104,6 @@
 		"obsoleteTech": "Gunpowder",
 		"hurryCostModifier": 20,
 		"promotions": ["March","Blitz"],
-                "uniques": ["Requires a [Monument] in this city"],
 		"attackSound": "metalhit"
 	},
 	{
