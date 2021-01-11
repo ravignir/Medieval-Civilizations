@@ -66,7 +66,7 @@
 		"innerColor": [	204, 56, 53],
 		"uniqueName": "Traders of the Shore",
 		"uniqueText": "Units pay only 1 movement point to embark and disembark. Luxury resources provide 1 additional happiness. Trading posts provide 2 Culture and each Trade Route generates additional 1 Gold.",
-		"uniques": ["+1 happiness from each luxury resource", "[+1 Gold] from each Trade Route","Units pay only 1 movement point to embark and disembark","[+2 Culture] from every [Trading post]"],
+		"uniques": ["+1 happiness from each luxury resource", "[+1 Gold] from each Trade Route","Units pay only 1 movement point to embark and disembark","[+1 Culture] from every [Trading post]"],
 		"cities": ["Indrapura","My So'n","Vijaya","Mang Ly","Lam Ap Pho","Amaravati","Kauthara","Panduranga",
 			"Thi Li Bi Nai","Trivakramapura","Balonga","Hamu Lithit","Dong Hoi","Aya Ru","Bingi",
 			"Hve","Kon Tum","Yang Prong","Daknan","Kandarpapura","Eatran","Vishnupura","Tuy Hoa"]
@@ -136,7 +136,8 @@
 		"outerColor": [	51, 0, 255],
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Magnificient Temples",
-		"uniques": ["[+1 Food] from every specialist","+[15]% Production when constructing [Worker]","Receive Free Great Person when you discover Civil Service"],
+		"uniqueText": "[+1 Food] from every specialist, +[15]% Production when constructing [Worker], [-25]% great person generation in all cities",
+		"uniques": ["[+1 Food] from every specialist","+[15]% Production when constructing [Worker]","+[-25]% great person generation in all cities"],
 		"cities": ["Angkor Wat","Hariharalaya","Singhapura","Lavo","Bhavapura","Vyadhapura","Dviradapura","Rajavihara","Mahendraparvata",
 			"Chaiya","Wiang Chan","U Thong","Phetchaburi","Nagara Jayasri","Banteay Kdei","Chok Gargyar","Preah Vihear","Chalieng",
 			"Krong Chaktomuk","Pre Rup","Prasat Bakan","Phanom Rung","Isanapura","Shrestapura","Angkor Borei","Lovei","Udong","Aninditapura"]

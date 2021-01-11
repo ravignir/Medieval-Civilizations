@@ -1,12 +1,4 @@
 [
-{
-	"name": "Magnificient Temples",
-	"uniqueTo": "Khmer",
-	"cost": -1,
-	"isNationalWonder": true,
-	"uniques": ["Will not be displayed in Civilopedia","Free Great Person"],
-	"requiredTech": "Civil Service"
-	},
 		{
         "name": "Deus Vult",
 	"uniqueTo": "Papal States",
@@ -145,10 +137,10 @@
 		"name": "Prasat",
 		"replaces": "Castle",
 		"uniqueTo": "Khmer", 
-		"cityStrength": 7,
-		"cityHealth": 25,
+		"cityStrength": 4,
+		"cityHealth": 10,
 		"specialistSlots": {"Artist": 1, "Engineer": 1},
-       		"cost": 220,
+       		"cost": 200,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Theology"
@@ -157,7 +149,7 @@
 		"name": "Water Puppet Theatre",
 		"replaces": "Opera House",
 		"uniqueTo": "Vietnam", 
-		"culture": 4,
+		"culture": 3,
 		"happiness": 1,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
@@ -172,7 +164,7 @@
 		"replaces": "Market",
 		"uniqueTo": "Sicily",
 		"gold": 2,
-		"culture": 1,
+		"culture": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
@@ -185,7 +177,7 @@
 		"uniqueTo": "Tibet", 
 		"hurryCostModifier": 25,
        	"cost": 120,
-		"culture": 3,
+		"culture": 1,
 		"specialistSlots": {"Artist": 1},
 		"uniques": ["[+1 Culture] from [Hill] tiles in this city"],
 		"requiredTech": "Philosophy"
