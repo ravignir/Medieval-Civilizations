@@ -8,7 +8,7 @@
 		"strength": 22,
 		"cost": 120,
 		"requiredTech": "Steel",
-		"upgradesTo": "Musketman",
+		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
