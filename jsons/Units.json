@@ -5,15 +5,14 @@
 		"uniqueTo": "Hungary",
 		"replaces": "Longswordsman",
 		"movement": 2,
-		"strength": 21,
+		"strength": 22,
 		"cost": 120,
-		"requiredTech": "Metal Casting",
-		"requiredResource": "Iron",
+		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Rifling",
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
-		"uniques": ["Can move immediately once bought"],
+		"uniques": ["Can move immediately once bought","Replaces both Longswordsman and Musketman"],
 	},
 	{
 		"name": "Coastal Raider",
@@ -104,6 +103,7 @@
 		"obsoleteTech": "Gunpowder",
 		"hurryCostModifier": 20,
 		"promotions": ["March","Blitz"],
+		"uniques": ["Replaces both Swordsman and Longswordsman"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -112,6 +112,15 @@
 		"uniqueTo": "Ireland",
 		"strength": 1,
 		"replaces": "Longswordsman",
+		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
+		"attackSound": "metalhit"
+	},
+		{
+		"name": "Empty Unit2",
+		"unitType": "Melee",
+		"uniqueTo": "Hungary",
+		"strength": 1,
+		"replaces": "Musketman",
 		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "metalhit"
 	},

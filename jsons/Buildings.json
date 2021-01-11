@@ -137,8 +137,6 @@
 		"name": "Prasat",
 		"replaces": "Castle",
 		"uniqueTo": "Khmer", 
-		"cityStrength": 4,
-		"cityHealth": 10,
 		"specialistSlots": {"Artist": 1, "Engineer": 1},
        		"cost": 200,
 		"hurryCostModifier": 25,
