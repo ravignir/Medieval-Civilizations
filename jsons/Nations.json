@@ -205,8 +205,8 @@
 		"outerColor": [34, 36, 97],
 		"innerColor": [255, 179, 0],
 		"uniqueName": "Go n-éirí leat!",
-		"uniqueText": "Policies cost does not increase with the number of cities at a cost of double unhappiness from number of cities.",
-		"uniques": ["Each city founded increases culture cost of policies [100]% less than normal","Unhappiness from number of Cities doubled"],
+		"uniqueText": "Policies cost increase twice as slow with the number of cities at a cost of double unhappiness from number of cities.",
+		"uniques": ["Each city founded increases culture cost of policies [50]% less than normal","Unhappiness from number of Cities doubled"],
 		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"],
 	},
 
