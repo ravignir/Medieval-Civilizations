@@ -1,4 +1,4 @@
-# Medieval-Civilizations v1.22g
+# Medieval-Civilizations v1.23g
 ; Medieval Civilizations mod for Unciv (Hungary, Champa, Khmer, Vietnam, Lithuania, Ireland, Tibet, Sicily, Genoa, Bulgaria, Papal States)
 v1.0g 28.08.2020
 v1.1g 31.08.2020
