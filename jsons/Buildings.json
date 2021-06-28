@@ -43,7 +43,7 @@
 	},
 	{
 	"name": "The Roof of the World",
-	"uniqueTo": "Tibet",
+	"uniqueTo": "Tibetan",
 	"cost": -1,
 	"providesFreeBuilding": "Garden",
 	"uniques": ["Will not be displayed in Civilopedia", "Must be next to [Mountain]"],
@@ -115,7 +115,7 @@
 	{
 		"name": "Var",
 		"replaces": "Castle",
-		"uniqueTo": "Hungary", 
+		"uniqueTo": "Hungarian", 
 		"cityStrength": 9,
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
@@ -136,7 +136,7 @@
 	{
 		"name": "Prasat",
 		"replaces": "Castle",
-		"uniqueTo": "Khmer", 
+		"uniqueTo": "Khmers", 
 		"specialistSlots": {"Artist": 1, "Engineer": 1},
        		"cost": 200,
 		"hurryCostModifier": 25,
@@ -146,7 +146,7 @@
 {
 		"name": "Water Puppet Theatre",
 		"replaces": "Opera House",
-		"uniqueTo": "Vietnam", 
+		"uniqueTo": "Viet nam", 
 		"culture": 3,
 		"happiness": 1,
 		"specialistSlots": {"Artist": 1},
@@ -172,7 +172,7 @@
 		{
 		"name": "Kumbum",
 		"replaces": "Temple",
-		"uniqueTo": "Tibet", 
+		"uniqueTo": "Tibetan", 
 		"hurryCostModifier": 25,
        	"cost": 120,
 		"culture": 1,

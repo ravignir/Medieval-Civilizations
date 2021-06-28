@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Hungary",
+		"name": "Hungarian",
 		"leaderName": "Matthias Corvinus",
 		"adjective": ["Hungarian"],
 		"startBias": ["Hill", "Plains"],
@@ -72,7 +72,7 @@
 			"Hve","Kon Tum","Yang Prong","Daknan","Kandarpapura","Eatran","Vishnupura","Tuy Hoa"]
 	},
 	{
-		"name": "Vietnam",
+		"name": "Viet nam",
 		"leaderName": "Lê Thánh Tông",
 		"adjective": ["Vietnamese"],
 		"startBias": ["Jungle","Coast"],
@@ -107,7 +107,7 @@
 			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
 	},
 	{
-		"name": "Khmer",
+		"name": "Khmers",
 		"leaderName": "Suryavarman II",
 		"adjective": ["Khmer"],
 		"startBias": ["Grassland"],
@@ -143,7 +143,7 @@
 			"Krong Chaktomuk","Pre Rup","Prasat Bakan","Phanom Rung","Isanapura","Shrestapura","Angkor Borei","Lovei","Udong","Aninditapura"]
 	},
 	{
-		"name": "Lithuania",
+		"name": "Lithuanians",
 		"leaderName": "Gediminas",
 		"adjective": ["Lithuanian"],
 		"preferredVictoryType": "Domination",
@@ -177,7 +177,7 @@
 			"Telsiai","Plunge","Kretinga","Gargzdai","Raseiniai","Joniskis","Anyksciai","Skuodas"]
 	},
 		{
-		"name": "Ireland",
+		"name": "Irish",
 		"leaderName": "Tairrdelbach Ua Conchobair",
 		"adjective": ["Irish"],
 		//"preferredVictoryType": "Diplomatic",
@@ -211,7 +211,7 @@
 	},
 
 		{
-		"name": "Tibet",
+		"name": "Tibetan",
 		"leaderName": "Songtsen Gampo",
 		"adjective": ["Tibetan"],
 		"startBias": ["Hill"],
@@ -246,7 +246,7 @@
 		"Coqen","Lhatse","Tawang","Ladakh","Batang"]
 	},
 		{
-		"name": "Bulgaria",
+		"name": "Bulgarian",
 		"leaderName": "Simeon",
 		"adjective": ["Bulgarian"],
 		"startBias": ["Plains"],

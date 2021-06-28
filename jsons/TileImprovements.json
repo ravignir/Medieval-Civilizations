@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Sacred grove",
-		"uniqueTo": "Lithuania",
+		"uniqueTo": "Lithuanians",
 		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"food": 1,
 		"happiness": 1,

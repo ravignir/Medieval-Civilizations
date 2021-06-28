@@ -2,7 +2,7 @@
 	{
 		"name": "Black Legion",
 		"unitType": "Melee",
-		"uniqueTo": "Hungary",
+		"uniqueTo": "Hungarian",
 		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 22,
@@ -32,7 +32,7 @@
 	{
 		"name": "Siege Elephant",
 		"unitType": "Ranged",
-		"uniqueTo": "Khmer",
+		"uniqueTo": "Khmers",
 		"replaces": "Trebuchet",
 		"movement": 3,
 		"strength": 16,
@@ -48,7 +48,7 @@
 	{
 		"name": "Mong Dong",
 		"unitType": "WaterRanged",
-		"uniqueTo": "Vietnam",
+		"uniqueTo": "Viet nam",
 		"replaces": "Galleass",
 		"movement": 3,
 		"strength": 20,
@@ -66,7 +66,7 @@
 		"name": "Grove Keeper",
 		"unitType": "Civilian",
 		"replaces": "Worker",
-		"uniqueTo": "Lithuania",
+		"uniqueTo": "Lithuanians",
 		"movement": 2,
 		"cost": 85,
 		"upgradesTo": "Swordsman",
@@ -78,7 +78,7 @@
 		"name": "Javelinman",
 		"replaces": "Spearman",
 		"unitType": "Ranged",
-		"uniqueTo": "Ireland",
+		"uniqueTo": "Irish",
 		"movement": 2,
 		"strength": 10,
 		"rangedStrength": 9,
@@ -93,7 +93,7 @@
 	{
 		"name": "Cliathairi",
 		"unitType": "Melee",
-		"uniqueTo": "Ireland",
+		"uniqueTo": "Irish",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 12,
@@ -109,7 +109,7 @@
 	{
 		"name": "Empty Unit",
 		"unitType": "Melee",
-		"uniqueTo": "Ireland",
+		"uniqueTo": "Irish",
 		"strength": 1,
 		"replaces": "Longswordsman",
 		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
@@ -118,7 +118,7 @@
 		{
 		"name": "Empty Unit2",
 		"unitType": "Melee",
-		"uniqueTo": "Hungary",
+		"uniqueTo": "Hungarian",
 		"strength": 1,
 		"replaces": "Musketman",
 		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
@@ -158,7 +158,7 @@
 	},
 		{
 		"name": "Heavy Rider",
-		"uniqueTo": "Bulgaria",
+		"uniqueTo": "Bulgarian",
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -190,7 +190,7 @@
 		{
 		"name": "Dmag Mi",
 		"unitType": "Melee",
-		"uniqueTo": "Tibet",
+		"uniqueTo": "Tibetan",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 16,
@@ -207,7 +207,7 @@
 		"name": "Boyar",
 		"unitType": "Mounted",
 		"strength": 10,
-		"uniqueTo": "Bulgaria",
+		"uniqueTo": "Bulgarian",
 		"replaces": "Great General",
 		"upgradesTo": "Knight",
 		"promotions": ["Boyar"],
