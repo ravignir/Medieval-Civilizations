@@ -1,55 +1,14 @@
 [
 	{
-		"name": "Choosen of the Gods",
-		"effect": "Can access special promotions",
-	},
-	{
-		"name": "Constructor",
-		"effect": "Can build improvements on tiles",
-	},
-
-	    	{
-		"name": "Giltine's Favor",
-		"prerequisites": ["Choosen of the Gods"],
-		"effect": "Heals [50] damage if it kills a unit",
-		"unitTypes": ["Melee"]
-	},    
-	    	{
-		"name": "Perkunas's Favor",
-		"prerequisites": ["Choosen of the Gods"],
-		"effect": "1 additional attack per turn",
-		"unitTypes": ["Melee"]
-	},  
-	    	{
-		"name": "Dievas's Favor",
-		"prerequisites": ["Choosen of the Gods"],
-		"effect": "Can move after attacking",
-		"unitTypes": ["Melee"]
-	},  
-	    	{
-		"name": "Gyvate's Favor",
-		"prerequisites": ["Choosen of the Gods"],
-		"effect": "All healing effects doubled",
-		"unitTypes": ["Melee"]
-	},  
-	    	{
-		"name": "Menulis's Favor",
-		"prerequisites": ["Choosen of the Gods"],
-		"effect": "+1 Movement",
-		"unitTypes": ["Melee"]
-	},  
-	    	{
-		"name": "Zemyna's Favor",
-		"prerequisites": ["Choosen of the Gods"],
-		"effect": "Ignores terrain cost",
-		"unitTypes": ["Melee"]
-	},  
-	{
-		"name": "Boyar",
-		"uniques": ["Can start an [12]-turn golden age", "Bonus for units in 2 tile radius 15%", "Can construct [Citadel]","+1 Visibility Range"]
+		"name": "Kavkhan",
+		"uniques": ["Can start an [8]-turn golden age", "[+15]% Strength bonus for [Military] units within [2] tiles", "Can construct [Citadel]","[+1] Sight"]
 	},  
 		{
 		"name": "Crusader",
 		"uniques": ["Can move immediately once bought"]
+	}, 
+	{
+		"name": "[Housecarl] ability",
+		"uniques": ["Double movement in [Snow]","Double movement in [Tundra]","Double movement in [Hill]","Double movement in [Coast]","Normal vision when embarked"]
 	}, 
 ]

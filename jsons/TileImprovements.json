@@ -1,12 +1,9 @@
 [
 	{
-		"name": "Sacred grove",
-		"uniqueTo": "Lithuanians",
-		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
-		"food": 1,
-		"happiness": 1,
-		"turnsToBuild": 10,
-		"techRequired": "Calendar",
-		"uniques": ["[+1 Culture] once [Archaeology] is discovered"]
+		"name": "Sacred altar",
+		"uniqueTo": "Lithuania",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"faith": 1,
+		"uniques": ["Tile provides yield without assigned population"]
 	},
 ]

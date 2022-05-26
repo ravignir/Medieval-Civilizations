@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Hungarian",
+		"name": "Hungary",
 		"leaderName": "Matthias Corvinus",
 		"adjective": ["Hungarian"],
 		"startBias": ["Hill", "Plains"],
@@ -29,8 +29,7 @@
 		"outerColor": [61, 105, 55],
 		"innerColor": [205, 131, 32],
 		"uniqueName": "Patronage of the Raven",
-		"uniqueText": "+20% Production towards Science and Culture buildings. +50% Production bonus when constructing Walls and Castles.",
-		"uniques": ["+[20]% Production when constructing [Culture] buildings","+[20]% Production when constructing [Library]","+[20]% Production when constructing [University]","+[20]% Production when constructing [Observatory]","+[20]% Production when constructing [Public School]","+[20]% Production when constructing [Research Lab]","+[50]% Production when constructing [Var]","+[50]% Production when constructing [Walls]"],
+		"uniques": ["[+10]% [Science] [in all cities] <during a Golden Age>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Walls] buildings [in all cities]","[+50]% Production when constructing [Var] buildings [in all cities]"],
 		"cities": ["Buda","Pest","Esztergom","Debrecen","Pecs","Eger","Miskolc","Gyor","Szekesfehervar","Szeged",
 			"Koszeg","Obuda","Kolozsvar","Diosgyor","Tatabanya","Kassa","Eperjes","Kisszeben","Eger","Mohacs","Tata",
 			"Szolnok","Sarvar","Zagrab","Temesvar","Nyiregyhaza","Kecskemet","Sopron"]
@@ -65,14 +64,13 @@
 		"outerColor": [	78, 154, 230],
 		"innerColor": [	204, 56, 53],
 		"uniqueName": "Traders of the Shore",
-		"uniqueText": "Units pay only 1 movement point to embark and disembark. Trading posts provide 1 Culture and each Trade Route generates additional 1 Gold.",
-		"uniques": ["[+1 Gold] from each Trade Route","Units pay only 1 movement point to embark and disembark","[+1 Culture] from every [Trading post]"],
+		"uniques": ["[+1 Gold] from every [Luxury resource]","Units pay only 1 movement point to embark and disembark","[+1 Culture] from every [Trading post]"],
 		"cities": ["Indrapura","My So'n","Vijaya","Mang Ly","Lam Ap Pho","Amaravati","Kauthara","Panduranga",
 			"Thi Li Bi Nai","Trivakramapura","Balonga","Hamu Lithit","Dong Hoi","Aya Ru","Bingi",
 			"Hve","Kon Tum","Yang Prong","Daknan","Kandarpapura","Eatran","Vishnupura","Tuy Hoa"]
 	},
 	{
-		"name": "Viet nam",
+		"name": "Viet Nam",
 		"leaderName": "Lê Thánh Tông",
 		"adjective": ["Vietnamese"],
 		"startBias": ["Jungle","Coast"],
@@ -101,13 +99,13 @@
 		"outerColor": [	239, 2, 2],
 		"innerColor": [	255, 247, 9],
 		"uniqueName": "The Dragon Path",
-		"uniques": ["[Wounded] units deal +[25]% damage","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]"],
+		"uniques": ["[+25]% Strength <for [Wounded] units>","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]"],
 		"cities": ["Hanoi","Saigon","Hai Phong","Bien Hoa","Co Loa","Than Hoa","Da Nang","Nhang Hong","Hoi An",
 			"Hue","Phong Chau","Phu Xuan","Long Bien","Qui Nhon","Rach Gia","Dong Hoi","Vung Tau","Ha Long","Long Xuyen",
 			"My Tho","Cam Pha","Bac Lieu","Hai Duong","Thai Binh","Soc Trang","Lao Cai","Sa Dec","Vinh Long"]
 	},
 	{
-		"name": "Khmers",
+		"name": "The Khmer",
 		"leaderName": "Suryavarman II",
 		"adjective": ["Khmer"],
 		"startBias": ["Grassland"],
@@ -136,14 +134,13 @@
 		"outerColor": [	51, 0, 255],
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Magnificient Temples",
-		"uniqueText": "[+1 Food] from every specialist, +[15]% Production when constructing [Worker]",
-		"uniques": ["[+1 Food] from every specialist","+[15]% Production when constructing [Worker]"],
+		"uniques": ["[10]% Food is carried over after population increases [in all cities]"],
 		"cities": ["Angkor Wat","Hariharalaya","Singhapura","Lavo","Bhavapura","Vyadhapura","Dviradapura","Rajavihara","Mahendraparvata",
 			"Chaiya","Wiang Chan","U Thong","Phetchaburi","Nagara Jayasri","Banteay Kdei","Chok Gargyar","Preah Vihear","Chalieng",
 			"Krong Chaktomuk","Pre Rup","Prasat Bakan","Phanom Rung","Isanapura","Shrestapura","Angkor Borei","Lovei","Udong","Aninditapura"]
 	},
 	{
-		"name": "Lithuanians",
+		"name": "Lithuania",
 		"leaderName": "Gediminas",
 		"adjective": ["Lithuanian"],
 		"preferredVictoryType": "Domination",
@@ -171,13 +168,13 @@
 		"outerColor": [166, 22, 51],
 		"innerColor": [75, 156, 245],
 		"uniqueName": "Worship of the Old Gods",
-		"uniques": ["[+1 Food] from every [Deer]","[+1 Culture] from every [Wheat]","[+1 Gold] from every [Furs]","[+1 Production] from every [Stone]"]
+		"uniques": ["[+1 Faith] [in all cities] <before the [Medieval era]>"]
 		"cities": ["Vilnius","Kaunas","Klaipeda","Kernave","Siauliai","Trakai","Panevezys","Kedainiai","Voruta","Prienai",
 			"Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
 			"Telsiai","Plunge","Kretinga","Gargzdai","Raseiniai","Joniskis","Anyksciai","Skuodas"]
 	},
 		{
-		"name": "Irish",
+		"name": "Ireland",
 		"leaderName": "Tairrdelbach Ua Conchobair",
 		"adjective": ["Irish"],
 		//"preferredVictoryType": "Diplomatic",
@@ -205,13 +202,12 @@
 		"outerColor": [34, 36, 97],
 		"innerColor": [255, 179, 0],
 		"uniqueName": "Go n-éirí leat!",
-		"uniqueText": "Policies cost increase twice as slow with the number of cities at a cost of double unhappiness from number of cities.",
-		"uniques": ["Each city founded increases culture cost of policies [50]% less than normal","Unhappiness from number of Cities doubled"],
+		"uniques": ["Each city founded increases culture cost of policies [33]% less than normal","[-2 Happiness] [in all cities]"],
 		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"],
 	},
 
 		{
-		"name": "Tibetan",
+		"name": "Tibet",
 		"leaderName": "Songtsen Gampo",
 		"adjective": ["Tibetan"],
 		"startBias": ["Hill"],
@@ -240,13 +236,12 @@
 		"outerColor": [95, 163, 118],
 		"innerColor": [195, 227, 220],
 		"uniqueName": "The Roof of the World",
-		"uniqueText": "Free Garden in all cities settled next to Mountains. +2 Culture from every Great Improvement",
-		"uniques": ["[+2 Culture] from every [Great Improvement]"],
+		"uniques": ["[+3 Faith] from every [Great Improvement]","[+2 Faith] from every [Specialist]"],
 		"cities": ["Lhasa","Xigaze","Gyantse","Chamdo","Gyegu","Rutog","Nyingchi","Nedong","Tingri","Leh","Senggezangbo","Nagchukha",
 		"Coqen","Lhatse","Tawang","Ladakh","Batang"]
 	},
 		{
-		"name": "Bulgarian",
+		"name": "Bulgaria",
 		"leaderName": "Simeon",
 		"adjective": ["Bulgarian"],
 		"startBias": ["Plains"],
@@ -274,26 +269,26 @@
 
 		"outerColor": [207, 93, 121],
 		"innerColor": [32, 66, 36],
-		"uniqueName": "Iron Discipline",
-		"uniques": ["New [mounted] units start with [15] Experience","[Mounted] units deal +[20]% damage"],
-		"cities": ["Sofia","Pliska","Tarnovo","Nesebar","Vidin","Skopje","Beroe","Plovdiv","Varna","Cherven","Debelt","Melnik","Preslavec",
+		"uniqueName": "Cirillic Script",
+		"uniques": ["[+3 Science, +3 Culture] [in capital] <after discovering [Writing]>"],
+		"cities": ["Pliska","Tarnovo","Nesebar","Sofia","Vidin","Skopje","Beroe","Plovdiv","Varna","Cherven","Debelt","Melnik","Preslavec",
 		"Silistra","Markeli","Balgrad","Mis","Serres","Kalfa"]
 		
 	},
 			{
-		"name": "Sicily",
-		"leaderName": "Roger II",
-		"adjective": ["Sicilian"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Scientific",
+		"name": "Norway",
+		"leaderName": "Harald Hardrada",
+		"adjective": ["Norwegian"],
+		"startBias": ["Coast","Tundra"],
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "I could not think of better words: just die!",
+		"declaringWar": "I will drink from your skull!",
 		"attacked": "You fool! Do you really think you can beat me?!",
 		"defeated": "... I was a fool. Good luck, mighty leader!",
-		"introduction": "The King of Sicily gives you his hand in friendship... if you have friendly intentions, that is.",
+		"introduction": "The King of Norway gives you his hand in friendship... if you have friendly intentions, that is.",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Speak."],
@@ -301,25 +296,24 @@
 		"neutralYes": ["I can't refuse.","I gladly accept."],
 		"hateHello": "Don't waste my time!",
 		"hateLetsHearIt": ["What's your offer?"],
-		"hateNo": ["Hungary will never accept that!","No way!"],
+		"hateNo": ["We will never accept that!","No way!"],
 		"hateYes": ["I must accept.","I never reject a good offer."],
 		
 		"afterPeace": "Let's drink some wine! Even the most fierce warriors need rest!",
 		"tradeRequest": "I've got an offer. Are you interested?",
 
-		"outerColor": [252, 223, 3],
-		"innerColor": [145, 145, 145],
-		"uniqueName": "Mediterranean Influence",
-		"uniques": ["Pay only one third the usual cost for naval unit maintenance","[+2 Food, +2 Culture, +2 Gold] from every [Harbor]"],
-		"cities": ["Palermo","Naples","Salerno","Catania","Bari","Ragusa","Messina","Catanzaro","Lecce","Benevento","Siracussa","Capua","Melfi","Girgenti","Foggia",
-		"Gaeta","Tropea","Pescara","Trani","Crotone","Taranto","Modica","Erice","Noto","Agira"]
+		"outerColor": [32, 44, 77],
+		"innerColor": [232, 194, 2],
+		"uniqueName": "Nordic Bounty",
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Food] from every [Tundra]"]
+		"cities": ["Oslo","Bergen","Trondheim","Stavanger","Tromso","Sarpsborg","Kristiansand","Fredrikstad","Tunsberg","Sandefjord","Sandnes","Skien","Drammen"]
 	},
 			{
 		"name": "Republic of Genoa",
 		"leaderName": "Simone Boccanegra",
 		"adjective": ["Genoese"],
 		"startBias": ["Coast"],
-		//"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -343,9 +337,9 @@
 
 		"outerColor": [255, 255, 255],
 		"innerColor": [255, 0, 0],
-		"uniqueName": "Mediterranean Enlightenment",
-		"uniqueText": "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
-		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Milan","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
+		"uniqueName": "The Spark of the Renaissance",
+		"uniques": ["[+15]% [Gold] [in all cities connected to capital]","[+15]% [Science] <during the [Medieval era]>"],
+		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Monaco","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
 	},
 				{
 		"name": "Papal States",
@@ -377,8 +371,8 @@
 		"outerColor": [128, 8, 0],
 		"innerColor": [255, 204, 0],
 		"uniqueName": "Deus Vult",
-		"uniqueText": "Non-air units may move immediately once bought. After researching Theology choose a council bonus and gain an ability to recruit Papal Guards.",
-		"uniques": ["[non-air] units gain the [Crusader] promotion"],
+		"uniqueText": "Land units may move immediately once bought. Receive free Shrine in each of your cities after researching Philosophy and a free Temple after researching Education",
+		"uniques": ["[Land] units gain the [Crusader] promotion","Gain a free [Shrine] [in all cities] <after discovering [Philosophy]>","Gain a free [Temple] [in all cities] <after discovering [Education]>"],
 		"cities": ["Roma","Benevento","Ravenna","Avignon","Bologna","Ponte Corvo","Ferrara","Ascoli","Camerino","Rieti","Assisi","Orvieto","Rimini","Todi","Viterbo"]
 	},
 
