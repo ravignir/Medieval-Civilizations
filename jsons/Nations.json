@@ -177,7 +177,7 @@
 		"name": "Ireland",
 		"leaderName": "Tairrdelbach Ua Conchobair",
 		"adjective": ["Irish"],
-		//"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -346,7 +346,7 @@
 		"leaderName": "Pope Innocent III",
 		"adjective": ["Papal"],
 		"startBias": ["Avoid [Tundra]"],
-		//"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
