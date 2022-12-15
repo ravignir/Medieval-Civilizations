@@ -173,7 +173,7 @@
 			"Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
 			"Telsiai","Plunge","Kretinga","Gargzdai","Raseiniai","Joniskis","Anyksciai","Skuodas"]
 	},
-		{
+	{
 		"name": "Ireland",
 		"leaderName": "Tairrdelbach Ua Conchobair",
 		"adjective": ["Irish"],
@@ -205,8 +205,7 @@
 		"uniques": ["Each city founded increases culture cost of policies [33]% less than normal","[-2 Happiness] [in all cities]"],
 		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"],
 	},
-
-		{
+	{
 		"name": "Tibet",
 		"leaderName": "Songtsen Gampo",
 		"adjective": ["Tibetan"],
@@ -236,11 +235,11 @@
 		"outerColor": [95, 163, 118],
 		"innerColor": [195, 227, 220],
 		"uniqueName": "The Roof of the World",
-		"uniques": ["[+3 Faith] from every [Great Improvement]","[+2 Faith] from every [Specialist]"],
+		"uniques": ["[+3 Faith] from every [Great Improvement]","[+2 Faith] from every specialist [in all cities]"],
 		"cities": ["Lhasa","Xigaze","Gyantse","Chamdo","Gyegu","Rutog","Nyingchi","Nedong","Tingri","Leh","Senggezangbo","Nagchukha",
 		"Coqen","Lhatse","Tawang","Ladakh","Batang"]
 	},
-		{
+	{
 		"name": "Bulgaria",
 		"leaderName": "Simeon",
 		"adjective": ["Bulgarian"],
@@ -273,9 +272,8 @@
 		"uniques": ["[+3 Science, +3 Culture] [in capital] <after discovering [Writing]>"],
 		"cities": ["Pliska","Tarnovo","Nesebar","Sofia","Vidin","Skopje","Beroe","Plovdiv","Varna","Cherven","Debelt","Melnik","Preslavec",
 		"Silistra","Markeli","Balgrad","Mis","Serres","Kalfa"]
-		
 	},
-			{
+	{
 		"name": "Norway",
 		"leaderName": "Harald Hardrada",
 		"adjective": ["Norwegian"],
@@ -308,7 +306,7 @@
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Food] from every [Tundra]"]
 		"cities": ["Oslo","Bergen","Trondheim","Stavanger","Tromso","Sarpsborg","Kristiansand","Fredrikstad","Tunsberg","Sandefjord","Sandnes","Skien","Drammen"]
 	},
-			{
+	{
 		"name": "Republic of Genoa",
 		"leaderName": "Simone Boccanegra",
 		"adjective": ["Genoese"],
@@ -341,7 +339,7 @@
 		"uniques": ["[+15]% [Gold] [in all cities connected to capital]","[+15]% [Science] <during the [Medieval era]>"],
 		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Monaco","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
 	},
-				{
+	{
 		"name": "Papal States",
 		"leaderName": "Pope Innocent III",
 		"adjective": ["Papal"],
@@ -375,5 +373,4 @@
 		"uniques": ["[Land] units gain the [Crusader] promotion","Gain a free [Shrine] [in all cities] <after discovering [Philosophy]>","Gain a free [Temple] [in all cities] <after discovering [Education]>"],
 		"cities": ["Roma","Benevento","Ravenna","Avignon","Bologna","Ponte Corvo","Ferrara","Ascoli","Camerino","Rieti","Assisi","Orvieto","Rimini","Todi","Viterbo"]
 	},
-
 ]
