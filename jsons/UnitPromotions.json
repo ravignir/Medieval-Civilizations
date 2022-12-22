@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Kavkhan",
-		"uniques": ["Can start an [8]-turn golden age", "[+15]% Strength bonus for [Military] units within [2] tiles", "Can construct [Citadel]","[+1] Sight"]
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"]
 	},  
 		{
 		"name": "Crusader",

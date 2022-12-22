@@ -3,16 +3,16 @@
 		"name": "Black Legion",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Hungary",
-		"replaces": "Longswordsman",
+		"replaces": "Musketman",
 		"movement": 2,
-		"strength": 22,
-		"cost": 130,
-		"requiredTech": "Steel",
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"hurryCostModifier": -25,
 		"attackSound": "shot"
-		"uniques": ["Can move immediately once bought","Cheaper to buy","Also replaces [Musketman]"],
+		"uniques": ["Can move immediately once bought","Cheaper to buy"],
 	},
 	{
 		"name": "Coastal Raider",
@@ -27,7 +27,6 @@
 		"promotions": ["Amphibious"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
 	{
@@ -36,14 +35,13 @@
 		"uniqueTo": "The Khmer",
 		"replaces": "Trebuchet",
 		"movement": 3,
-		"strength": 15,
+		"strength": 17,
 		"rangedStrength": 19,
 		"cost": 150,
 		"requiredTech": "Physics",
 		"upgradesTo": "Cannon",
 		"obsoleteTech": "Dynamite",
 		"uniques": ["No defensive terrain bonus","Rough terrain penalty","[+100]% Strength <vs cities> <when attacking>","[-1] Sight","Must set up to ranged attack"]
-		"hurryCostModifier": 20,
 		"attackSound": "arrow"
 	},
 	{
@@ -69,7 +67,7 @@
 		"uniqueTo": "Lithuania",
 		"replaces": "Inquisitor",
 		"uniques": ["Takes your religion over the one in their birth city","Prevents spreading of religion to the city it is next to","Can [Remove Foreign religions from your own cities] [1] times",
-			"Can be purchased with [Faith] [in all cities]","Can construct [Sacred altar] if it hasn't used other actions yet",
+			"Can be purchased with [Faith] [in all cities]","Can construct [Sacred altar] <if it hasn't used other actions yet>",
 			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"],
 		"movement": 3,
 	},
@@ -96,21 +94,12 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 12,
-		"cost": 90,
+		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
-		"promotions": ["March","Blitz"],
-		"attackSound": "metalhit"
-	},
-		{
-		"name": "Empty Unit1",
-		"unitType": "Sword",
-		"uniqueTo": "Hungary",
-		"strength": 1,
-		"replaces": "Musketman",
-		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
+		"promotions": ["Blitz"],
 		"attackSound": "metalhit"
 	},
 		{
@@ -119,14 +108,14 @@
 		"uniqueTo": "Republic of Genoa",
 		"replaces": "Crossbowman",
 		"movement": 2,
-		"strength": 13,
-		"rangedStrength": 21,
+		"strength": 16,
+		"rangedStrength": 20,
 		"cost": 150,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"promotions": ["Quick Study","Cover I"],
-		"uniques": ["Defense bonus when embarked","Can move immediately once bought"]
+		"uniques": ["Defense bonus when embarked"]
 		"attackSound": "arrow"
 	},
 		{
@@ -134,15 +123,15 @@
 		"unitType": "Archery",
 		"replaces": "Trebuchet",
 		"uniqueTo": "Republic of Genoa",
-		"movement": 4,
-		"strength": 7,
+		"movement": 2,
+		"strength": 9,
 		"range": 2,
-		"rangedStrength": 8,
+		"rangedStrength": 9,
 		"cost": 120,
 		"requiredTech": "Physics",
 		"obsoleteTech": "Industrialization",
 		"upgradesTo": "Gatling Gun",
-		"uniques": ["[-50]% XP gained from combat","[-1] Sight","[-33]% Strength <vs cities> <when attacking>","Rough terrain penalty","No defensive terrain bonus","[2] additional attacks per turn"],
+		"uniques": ["[-50]% XP gained from combat","[-1] Sight","[-33]% Strength <vs cities> <when attacking>","[+2] Movement <when adjacent to a [Military] unit>","No defensive terrain bonus","[2] additional attacks per turn"],
 		"promotions": ["Logistics"],
 		"attackSound": "shot"
 	},
@@ -157,7 +146,7 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"obsoleteTech": "Industrialization",
-		"upgradesTo": "Cavalry",
+		"upgradesTo": "Gatling Gun",
 		"uniques": ["Consumes [1] [Horses]","Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
 	},
@@ -182,7 +171,7 @@
 		"uniqueTo": "Tibet",
 		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 16,
+		"strength": 15,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
@@ -194,13 +183,13 @@
 	},
 		{
 		"name": "Kavkhan",
-		"unitType": "Mounted",
+		"unitType": "Civilian",
 		"strength": 10,
 		"uniqueTo": "Bulgaria",
 		"replaces": "Great General",
 		"upgradesTo": "Knight",
 		"promotions": ["Kavkhan"],
-		"uniques": ["Great Person - [War]","Uncapturable","Unbuildable"]
+		"uniques": ["Great Person - [War]","Can construct [Citadel]","Can start an [8]-turn golden age","Unbuildable","[+1] Sight"]
 		"movement": 4
 	},
 		{
@@ -208,7 +197,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Papal States",
 		"replaces": "Great General",
-		"uniques": ["Uncapturable","Unbuildable","[+10]% Strength bonus for [Military] units within [3] tiles","[+15]% Strength bonus for [Military] units within [2] tiles","[+20]% Strength bonus for [Military] units within [1] tiles","[+2] Sight","Rough terrain penalty","All adjacent units heal [+5] HP when healing","Great Person - [War]", "Unbuildable"],
+		"uniques": ["Uncapturable","[+10]% Strength bonus for [Military] units within [3] tiles","[+15]% Strength bonus for [Military] units within [2] tiles","[+20]% Strength bonus for [Military] units within [1] tiles","[+25]% Strength bonus for [Military] units within [0] tiles","[+2] Sight","Rough terrain penalty","All adjacent units heal [+10] HP when healing","Great Person - [War]", "Unbuildable"],
 		"movement": 3
 	},
 			{
@@ -216,12 +205,12 @@
 		"unitType": "Sword",
 		"replaces": "Lancer",
 		"uniqueTo": "Papal States",
-		"movement": 3,
+		"movement": 2,
 		"strength": 30,
 		"cost": 275,
 		"requiredTech": "Economics",
 		"promotions": ["Formation I"],
-		"uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+10]% Strength <after discovering [Rifling]>","[+30]% Strength <after discovering [Replaceable Parts]>","[+60]% Strength <after discovering [Plastics]>"],
+		"uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>","Unit will heal every turn, even if it performs an action","[+10]% Strength <after discovering [Rifling]>","[+30]% Strength <after discovering [Replaceable Parts]>","[+60]% Strength <after discovering [Plastics]>","[+100]% Strength <after discovering [Mobile Tactics]>","[+1] Movement <after discovering [Mobile Tactics]>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},

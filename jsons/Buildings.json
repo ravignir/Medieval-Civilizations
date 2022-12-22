@@ -29,10 +29,13 @@
 		"faith": 2,
 		"maintenance": 1,
 		"specialistSlots": {"Artist": 1, "Engineer": 1},
+		"cityStrength": 7,
+		"cityHealth": 25,
        		"cost": 200,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"requiredTech": "Theology"
+		"uniques": ["Provides 1 Artist and 1 Engineer specialist slots."],
+		"requiredTech": "Chivalry"
 	},
 {
 		"name": "Water Puppet Theatre",
@@ -42,7 +45,7 @@
 		"happiness": 1,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
-		"requiredBuilding": "Temple",
+		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
 		"uniques": ["[+2 Culture] from [Lakes] tiles in this city"]
 		"requiredTech": "Acoustics"
@@ -63,6 +66,7 @@
 		"hurryCostModifier": 25,
        	"cost": 100,
 		"faith": 1,
+		"maintenance": 2,
 		"uniques": ["[+1 Faith] from [Hill] tiles in this city"],
 		"requiredTech": "Philosophy"
 	},

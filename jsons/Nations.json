@@ -29,7 +29,7 @@
 		"outerColor": [61, 105, 55],
 		"innerColor": [205, 131, 32],
 		"uniqueName": "Patronage of the Raven",
-		"uniques": ["[+10]% [Science] [in all cities] <during a Golden Age>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Walls] buildings [in all cities]","[+50]% Production when constructing [Var] buildings [in all cities]"],
+		"uniques": ["[+15]% [Science] [in all cities] <during a Golden Age>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Walls] buildings [in all cities]","[+50]% Production when constructing [Var] buildings [in all cities]"],
 		"cities": ["Buda","Pest","Esztergom","Debrecen","Pecs","Eger","Miskolc","Gyor","Szekesfehervar","Szeged",
 			"Koszeg","Obuda","Kolozsvar","Diosgyor","Tatabanya","Kassa","Eperjes","Kisszeben","Eger","Mohacs","Tata",
 			"Szolnok","Sarvar","Zagrab","Temesvar","Nyiregyhaza","Kecskemet","Sopron"]
@@ -173,7 +173,7 @@
 			"Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
 			"Telsiai","Plunge","Kretinga","Gargzdai","Raseiniai","Joniskis","Anyksciai","Skuodas"]
 	},
-	{
+		{
 		"name": "Ireland",
 		"leaderName": "Tairrdelbach Ua Conchobair",
 		"adjective": ["Irish"],
@@ -202,10 +202,11 @@
 		"outerColor": [34, 36, 97],
 		"innerColor": [255, 179, 0],
 		"uniqueName": "Go n-éirí leat!",
-		"uniques": ["Each city founded increases culture cost of policies [33]% less than normal","[-2 Happiness] [in all cities]"],
+		"uniques": ["Each city founded increases culture cost of policies [17]% less than normal","[-1 Happiness] [in all cities]"],
 		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"],
 	},
-	{
+
+		{
 		"name": "Tibet",
 		"leaderName": "Songtsen Gampo",
 		"adjective": ["Tibetan"],
@@ -239,7 +240,7 @@
 		"cities": ["Lhasa","Xigaze","Gyantse","Chamdo","Gyegu","Rutog","Nyingchi","Nedong","Tingri","Leh","Senggezangbo","Nagchukha",
 		"Coqen","Lhatse","Tawang","Ladakh","Batang"]
 	},
-	{
+		{
 		"name": "Bulgaria",
 		"leaderName": "Simeon",
 		"adjective": ["Bulgarian"],
@@ -259,7 +260,7 @@
 		"neutralNo": ["No.","That's unacceptable."],
 		"neutralYes": ["I can't refuse.","I accept"],
 		"hateHello": "Quick!",
-		"hateLetsHearIt": ["Ist taht all you have to offer?"],
+		"hateLetsHearIt": ["Is that all you have to offer?"],
 		"hateNo": ["Don't test my patience!","No way!"],
 		"hateYes": ["I must accept.","Let it be"],
 		
@@ -272,8 +273,9 @@
 		"uniques": ["[+3 Science, +3 Culture] [in capital] <after discovering [Writing]>"],
 		"cities": ["Pliska","Tarnovo","Nesebar","Sofia","Vidin","Skopje","Beroe","Plovdiv","Varna","Cherven","Debelt","Melnik","Preslavec",
 		"Silistra","Markeli","Balgrad","Mis","Serres","Kalfa"]
+		
 	},
-	{
+			{
 		"name": "Norway",
 		"leaderName": "Harald Hardrada",
 		"adjective": ["Norwegian"],
@@ -306,7 +308,7 @@
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Food] from every [Tundra]"]
 		"cities": ["Oslo","Bergen","Trondheim","Stavanger","Tromso","Sarpsborg","Kristiansand","Fredrikstad","Tunsberg","Sandefjord","Sandnes","Skien","Drammen"]
 	},
-	{
+			{
 		"name": "Republic of Genoa",
 		"leaderName": "Simone Boccanegra",
 		"adjective": ["Genoese"],
@@ -339,7 +341,7 @@
 		"uniques": ["[+15]% [Gold] [in all cities connected to capital]","[+15]% [Science] <during the [Medieval era]>"],
 		"cities": ["Genoa","Ajaccio","Costanza","Albenga","Monaco","Savona","San Remo","Laiazzo","Giaffa","Basta","Porto-Vecchio","Sassari","Alghero","Nuoro","Olbia","Bonifacio"]
 	},
-	{
+				{
 		"name": "Papal States",
 		"leaderName": "Pope Innocent III",
 		"adjective": ["Papal"],
@@ -369,8 +371,9 @@
 		"outerColor": [128, 8, 0],
 		"innerColor": [255, 204, 0],
 		"uniqueName": "Deus Vult",
-		"uniqueText": "Land units may move immediately once bought. Receive free Shrine in each of your cities after researching Philosophy and a free Temple after researching Education",
-		"uniques": ["[Land] units gain the [Crusader] promotion","Gain a free [Shrine] [in all cities] <after discovering [Philosophy]>","Gain a free [Temple] [in all cities] <after discovering [Education]>"],
+		"uniqueText": "Land units may move immediately once bought. Receive free Shrine in capital at the beginning of the game and then in each of your cities after researching Philosophy. Receive a free Temple after researching Education",
+		"uniques": ["[Land] units gain the [Crusader] promotion","Gain a free [Shrine] [in capital]","Gain a free [Shrine] [in all cities] <after discovering [Philosophy]>","Gain a free [Temple] [in all cities] <after discovering [Education]>"],
 		"cities": ["Roma","Benevento","Ravenna","Avignon","Bologna","Ponte Corvo","Ferrara","Ascoli","Camerino","Rieti","Assisi","Orvieto","Rimini","Todi","Viterbo"]
 	},
+
 ]
