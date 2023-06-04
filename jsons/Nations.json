@@ -6,8 +6,8 @@
 		"startBias": ["Hill", "Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Maganimous King Matthias Corvinus of Hungary, your shining legacy is everlasting. When you came to the Magyar throne, your nation was going through a tumultuous time, threatened as it was from all sides; seeing this with perfect clarity, you established a permanent professional army, and thus the fearsome mercenary Black Army was born: unusual in its size and comparison, it famously incorporated the use of muskets. But perhaps the pinnacle of your reign is the fact that you made Hungary the first country outside Italy to adopt the principles of the Renaissance: learned men from all countries, not just Italy itself, travelled to Hungary to talk about arts, and your legendary library was rivaled only by that of Venice.",
+		"startIntroPart2": "King Matthias the Just, God has called upon you to usher a new epoch of absolute greatness by calling upon your loyal people and lead them to glory? Can you rebuild your legendary library and at the same time let the Black Army serve as both a sword against your enemies and a shield protecting your nation? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
 		"attacked": "It can not be true, but I feel it is. We will do our best to fend you off!",
@@ -41,8 +41,8 @@
 		"startBias": ["Jungle","Grassland","Coast"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Greetings, Po Binasuor, last great king of Champa! Your enemies have never ceased to tremble at your legend! An Austronesian people, the Cham came to occupy a key position on the Indochinese coast mediating international sea trade with China. Yet, lacking the fertile rice fields of their neighbors, Champa grew to exploit these lucrative waters and developed a unique plunder based economy, gaining notoriety throughout the region for piracy. Champa would represent a melting-pot of Southeast Asia, introducing technology from China, trading with Indonesian merchants, intermarrying with the Khmer kings, and building unforgettable temples to the gods of ancient India. Yet, seemingly always at war, Champa fell, broken and desolate, to conquerors from the north.",
+		"startIntroPart2": "Red King, it was you who reunited the tattered remains of your people and, outnumbered six to one, almost claimed victory over your bitter enemies, the Dai Viet! Will you now return to recalim your lost homeland? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "We tolerated you way longer than we should, and now we demand you pay with your blood.",
 		"attacked": "We will ensure you will remember the day you turned on us.",
@@ -76,13 +76,13 @@
 		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Good morning, Imperial Lordship Lê Thánh Tông, ruler of the Dai Viet dynasty. You are the leader of a nation called Viet Nam, whose people has had an history of war and resistance. Your reign was eulogized as the Prospered Reign of Hong Duc, as it was recognized for the extensive administrative, military, education and fiscal reforms you instituted, the conquest of the Champa states in the south, and a cultural revolution that replaced the old aristocracy with a generation of literati scholars. Even after the disappearance of the Dai Viet dynasty, your nation resisted hardships that would have destroyed the strongest empire, and is today one of the most prosperous countries in all of East Asia.",
+		"startIntroPart2": "Wise and revered ruler of Viet Nam, your nation in now in need of your help to achieve greater glory. Will you claim the throne of the Dai Viet once again and bring your people to greater prosperity, until Viet Nam becomes the center of the world? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "We have tolerated you way longer than we should!",
 		"attacked": "It was the biggest mistake of yours so far. My armies are well equipped and thoroughly trained!",
-		"defeated":  "That's not an end. It's merely a beginning of your problems!",
-		"introduction":  "You stand in the presence of Great Emperor Lê Thánh Tông of Vietnam. Behave accordingly and you SHOULD be fine.",
+		"defeated": "That's not an end. It's merely a beginning of your problems!",
+		"introduction": "You stand in the presence of Great Emperor Lê Thánh Tông of Vietnam. Behave accordingly and you SHOULD be fine.",
 		
 		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
@@ -111,8 +111,8 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Praised be thee, Suryavarman II, Emperor of the Khmer, rightful Ruler of the World and Master of the Universe, he who built the majestic Angkor Wat! You are regarded as one of the greatest kings that Khmer ever had in their history, for your legacy is unforgettable. You innovated the empire's arts and architecture, for not only Angkor Wat itself, but also other great temple complexes are creations you are most responsible for. In doing so, as well as thanks to your military campaigns that allowed you to conquer today's Thailand, Malaysia and part of Vietnam, you united the empire more than ever, ushering in a Golden Age for what is today known as Cambodia.",
+		"startIntroPart2": "O Master of the Universe, your people need you once more and wish that you led them to glory and fame! Only you are capable of fulfilling such an hard task, to conquer your enemies, build a mighty empire and enrich your people with wealth, culture and prosperity. Will you accept the challenge, rightful Ruler of the World? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I will show you the entire might of the Khmer people!",
 		"attacked": "I think you will regret this decission quite soon.",
@@ -145,8 +145,8 @@
 		"adjective": ["Lithuanian"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "O' noble Gediminas, Lord of the Old Ways, Grand Duke of Lithuania, we sing praises to your name. A skilled diplomat, you shielded the ancient beliefs of your people against the unyielding force of the Catholic Church. You also established a noble dynasty for Lithuania, which would go on to conquer a vast empire spanning the breadth of Eastern Europe and fuse with Poland to create a mighty realm that would be hard to conquer. Truly, your reign is beheld in the hearts of your ancestors!",
+		"startIntroPart2": "O' revered lord, your people still remembers their old ods. Can you uphold their devotion and suppress the irreverants of the world? Will you take up sword and faith and lead Lithuania once more to power and glory? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You have brought the wrath of Dievas upon yourself!",
 		"attacked": "We shall now show you the true power of Lithuania and our true gods!",
@@ -213,8 +213,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Blessings upon you, O' great king Songtsen Gampo Gampo, founder of the proud Tibetan Empire. Under your reign you threatened the rule of many ancient kingdoms - China and India to name but two. You are also famed for your introduction of Buddhism to your empire, a legacy which has lasted far beyond that of your empire. Through your cunning diplomacy you created many loyal subjects and vassals amongst the neighbouring kingdoms, which in turn helped to cement the position of Tibet. After your passing, Tibet continued to be a prosperous empire for centuries, ruling over a swath of empire from China in the east to Pakistan in the west and the Indian Ocean in the South. But after several hundred years of central rule, the empire succumbed to the greed of man and collapsed into civil war, marking the end of Tibet as a power; from that age, Tibet has succumbed to invasion from those it once commanded, and to this day remains within the realm of the Chinese.",
+		"startIntroPart2": "O' Great Emperor, the wheel turns once again! Your diplomatic skills, your will to power and your determination are legend! Will you spread the tenets of Buddhism in this new world? Can you extend your boundaries by marriage and sword? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "It is your time to pass the Trial of Avalanche!",
 		"attacked": "How dare you disturb the peace?",
@@ -247,8 +247,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Great Tsar Simeon I, ruler of one of the greatest European empires, your people is ready for your leadership once again. The Bulgarian Empire lasted over seven centuries, but it was a reign of war and tears. During your reig, Bulgaria reached its greatest territorial expansion, only possible due to your successful military campaigns against Byzantnes, Magyars and Serbs. It was a time of cultural apogee, and your empire became the library and spiritual centre of Slavic Europe thanks to your policies. Nearly one hundred years after your death, in 1018, Bulgaria lost her sovereignty to Byzantium, but it was restored in the uprising of 1185, where Bulgaria crushed the Latin empire once more defeated. But what proved too strong were the Arab Sultans, as your empire crumbled beneath an Ottoman invasion in the XV century.",
+		"startIntroPart2": "Simeon I the Great, we have summoned you from the embrace of God once again! Bulgaria rises, and its leader bust be both wise and ruthless. Will you reestablish those great cultural and scientific institutions? Will you outsmart and overcome your enemies with the cunning and brutality of a true Tsar? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Ready your horses my warriors! This day, we ride to war!",
 		"attacked": "What? I thought you are smarter!",
@@ -315,8 +315,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Live long and prosper, Simone Boccanegra, Doge of mighty Genoa! Your reign was marked by an intense cliud of intrigue and subterfuge. Genoa, one of the contending powers for domination of the Mediterranean, was ruled by an aristocratic elite. Once elected Doge, you disposed of the established upper class in a revolutionary upheaval that would forever change Genoa's political landscape. Entrenched in a long war with Venice, that would eventually be lost, you fought off would-be assassins and rivals for five long years before being forced to resign. But your successors were less tenacious as you, and soon enough you came back to power. Your rule would last another seven years, before a poisoning attempt was finally successful.",
+		"startIntroPart2": "Revolutionari Doge, your people are once again surrounded by enemies plotting Genoa's demise. Will you see through the ploys of your many rivals, and once again establish Genoa as a force to be reckoned with? Will you seize control of the seas, and establish dominance over the trade routes of this new world? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I think we might have conflicting interests, actually - I am certain!",
 		"attacked": "I hope you studied that thoroughly, because there will be no mercy.",
@@ -348,8 +348,8 @@
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Blessings upon His Holiness, Pope Innocent III, sovereign of the Papal States. As the Catholic Church's most powerfull Pontiff, you reigned supreme over the crowned heads of Europe. Rooting out heresy wherever it dwelt, you presided over the Churches' most important reforms as well as her most infamous crusades. Commanding the Christian faith with diplomatic skill and political acumen, you papacy would mark the height of its power on earth.",
+		"startIntroPart2": "Your Holiness, the kingdom of God beckons you once more. Her loyal crusaders ready their swords and await your command. Can you lead the Church in these trying times? Can you ensure its teachings are spread across the world? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "It is the time you should learn the God's will. There is no place for heresy!",
 		"attacked": "I excommunicate you, burn in hell!",
