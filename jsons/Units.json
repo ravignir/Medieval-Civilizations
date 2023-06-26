@@ -67,7 +67,7 @@
 		"uniqueTo": "Lithuania",
 		"replaces": "Inquisitor",
 		"uniques": ["Takes your religion over the one in their birth city","Prevents spreading of religion to the city it is next to","Can [Remove Foreign religions from your own cities] [1] times",
-			"Can be purchased with [Faith] [in all cities]","Can construct [Sacred altar] <if it hasn't used other actions yet>",
+			"Can be purchased with [Faith] [in all cities]","Can instantly construct a [Sacred altar] <by consuming this unit> <if it hasn't used other actions yet>",
 			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"],
 		"movement": 3,
 	},
@@ -189,7 +189,7 @@
 		"replaces": "Great General",
 		"upgradesTo": "Knight",
 		"promotions": ["Kavkhan"],
-		"uniques": ["Great Person - [War]","Can construct [Citadel]","Can start an [8]-turn golden age","Unbuildable","[+1] Sight"]
+		"uniques": ["Great Person - [War]","Can instantly construct a [Citadel] <by consuming this unit> <if it hasn't used other actions yet>","Empire enters a [8]-turn Golden Age <by consuming this unit>","Unbuildable","[+1] Sight"]
 		"movement": 4
 	},
 		{
