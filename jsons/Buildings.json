@@ -19,7 +19,7 @@
 		"culture": 1,
 		"hurryCostModifier": 25,
        		"cost": 100,
-		"uniques": ["[+1 Faith] from [Jungle] tiles in this city"],
+		"uniques": ["[+1 Faith] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -47,7 +47,7 @@
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
-		"uniques": ["[+2 Culture] from [Lakes] tiles in this city"]
+		"uniques": ["[+2 Culture] from [Lakes] tiles [in this city]"]
 		"requiredTech": "Acoustics"
 	},
 
@@ -67,7 +67,7 @@
        	"cost": 100,
 		"faith": 1,
 		"maintenance": 2,
-		"uniques": ["[+1 Faith] from [Hill] tiles in this city"],
+		"uniques": ["[+1 Faith] from [Hill] tiles [in this city]"],
 		"requiredTech": "Philosophy"
 	},
 ]
